@@ -1,5 +1,6 @@
 {
-  "title" : "Background"
+  "title" : "Background",
+  "weight" : "200"
 }
 
 Background is mechanically unchanged from _Scum and Villainy_, but some of the
