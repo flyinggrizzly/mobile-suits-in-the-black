@@ -4,6 +4,9 @@ image: flyinggrizzly/ssg:hugo
 stages:
   - deploy
 
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
 cache:
   paths:
     - vendor/ruby
