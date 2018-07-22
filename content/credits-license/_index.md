@@ -15,5 +15,7 @@ Logo is used with permission.*
 
 All Gundam intellectual properties referenced here are the copyright of Namco Bandai through Sotsu Sunrise.
 
+Favicon giant robot by sahua d from the Noun Project.
+
 The game _Mobile Suits in the Black_ is licensed on the same [Creative Commons
 CC BY 3.0 license](https://creativecommons.org/licenses/by/3.0/) as _Blades_, with the exception of material copyrighted by Sotsu Sunrise, Namco Bandai, or any other Gundam IP holder.
