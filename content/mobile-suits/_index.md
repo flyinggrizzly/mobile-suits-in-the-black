@@ -1,6 +1,7 @@
 {
   "title" : "Mobile Suits",
-  "weight" : "400"
+  "weight" : "400",
+  "alwaysopen" : "true"
 }
 
 Mobile Suits are giant, usually humanoid, robotic warmachines, and the most
