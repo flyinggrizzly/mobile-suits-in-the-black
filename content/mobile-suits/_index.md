@@ -16,7 +16,8 @@ In Gundam series, there are roughly three 'classes'[^1] of MS:
 
 - mass-production units ('grunt' suits like the [MS-06 Zaku
 II](http://gundam.wikia.com/wiki/MS-06_Zaku_II) or [RGM-79 GM](http://gundam.wikia.com/wiki/RGM-79_GM))
-- performance, personal, or technology test units (high-performance suits like the [MSA-099
+- performance, personal, or technology test units (high-performance suits like
+the [RMG-79N GM Custom](http://gundam.wikia.com/wiki/RGM-79N_GM_Custom), [MSA-099
 Rick Dias](http://gundam.wikia.com/wiki/Rick_Dias), [MS-14Fs Gelgoog
 Commander-type](http://gundam.wikia.com/wiki/MS-14Fs_Gelgoog_Marine_Commander_Type),
 [RX-79 [G] Gundam
@@ -29,4 +30,4 @@ Gundam](http://gundam.wikia.com/wiki/MSZ-006_Zeta_Gundam), and [RX-93 ν ('Nu')
 Gundam](http://gundam.wikia.com/wiki/RX-93_%CE%BD_Gundam))
 
 
-[^1]: For the purposes of the game, this is close enough. And of course there's bleed between the categories. For example, we could argue that the RX-78-2 Gundam was a top-level suit at the beginning of the series, but by the end it was more of a 'performance' suit, and it was Amuro's abilities that continued to set he and it apart. And suits like the [MSN-00100 Hyaku Shiki](http://gundam.wikia.com/wiki/MSN-00100_Hyaku_Shiki) could be put into either the top of mid tiers, but it would depend on what kind of Zeta story you were trying to tell.
+[^1]: For the purposes of the game, this is close enough. And of course there's bleed between the categories. For example, we could argue that the RX-78-2 Gundam was a top-level suit at the beginning of the series, but by the end it was more of a 'performance' suit, and it was Amuro's abilities that continued to set he and it apart. And MS like the [MSN-00100 Hyaku Shiki](http://gundam.wikia.com/wiki/MSN-00100_Hyaku_Shiki) could be put into either the top or mid tiers, but it would depend on what kind of Zeta story you were trying to tell.
