@@ -5,7 +5,7 @@
   "modelNumber" : "",
   "gundamWikiLink" : "",
   "imageURL" : "",
-  "msClass" : "grunt | performance | unique",
+  "msClass" : "mass-production | performance-production | unique-ace",
   "mobileSuitSystems" : {
     "starting" : { "engines" : "0",
                    "comms" : "0",

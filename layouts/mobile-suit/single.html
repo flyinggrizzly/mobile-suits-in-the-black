@@ -1,10 +1,12 @@
 {{ define "main" }}
   <h5>{{ .Params.modelNumber }} {{ .Params.msName }}</h5>
-  <em><a href="{{ .Params.gundamWikiLink }}">See this mobile suit on the Gundam Wiki</a></em>
+  Class: {{ .Params.msClass | title }} | <em><a href="{{ .Params.gundamWikiLink }}">See this mobile suit on the Gundam Wiki</a></em>
 
   <div class="ms-portrait">
     <img src="{{ .Params.imageURL }}" />
   </div>
+
+  {{ .Content }}
 
   <div class="ms ms-moves">
     <h3>MS Moves</h3>
@@ -47,6 +49,4 @@
       </tbody>
     </table>
   </div>
-
-  {{ .Content }}
 {{ end }}
