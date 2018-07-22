@@ -1,0 +1,21 @@
+# CI for publishing to www.flyinggrizzly.net/childhood-in-the-sunlight
+image: flyinggrizzly/ssg:hugo
+
+stages:
+  - deploy
+
+cache:
+  paths:
+    - vendor/ruby
+
+deploy_to_s3_and_cloudfront:
+  stage: deploy
+  only:
+    - master
+  before_script:
+    - ruby -v
+    - bundle install -j $(nproc) --path vendor --with ci --without development
+  script:
+    - bundle exec rake deploy
+
+
