@@ -1,0 +1,39 @@
+{{ define "main" }}
+  <h5>{{ .Params.modelNumber }} {{ .Params.msName }}</h5>
+  <div class="ms-portrait">
+    <img src="{{ .Params.imageURL }}" />
+  </div>
+  <em><a href="{{ .Params.gundamWikiLink }}">See this mobile suit on the Gundam Wiki</a></em>
+
+  <div class="ms ms-systems">
+    <table>
+      <tr>
+        <thead>System</thead>
+        <thead>Starting score</thead>
+        <thead>Maximum score</thead>
+      </tr>
+      <tr>
+        <td>Weapons</td>
+        <td>{{ .Params.mobileSuitSystems.starting.weapons }}</td>
+        <td>{{ .Params.mobileSuitSystems.maximum.weapons }}</td>
+      </tr>
+      <tr>
+        <td>Hull</td>
+        <td>{{ .Params.mobileSuitSystems.starting.hull }}</td>
+        <td>{{ .Params.mobileSuitSystems.maximum.hull }}</td>
+      </tr>
+      <tr>
+        <td>Comms</td>
+        <td>{{ .Params.mobileSuitSystems.starting.comms }}</td>
+        <td>{{ .Params.mobileSuitSystems.maximum.comms }}</td>
+      </tr>
+      <tr>
+        <td>Engines</td>
+        <td>{{ .Params.mobileSuitSystems.starting.engines }}</td>
+        <td>{{ .Params.mobileSuitSystems.maximum.engines }}</td>
+      </tr>
+    </table>
+  </div>
+
+  {{ .Content }}
+{{ end }}
