@@ -1,0 +1,7 @@
+{{ define "main" }}
+  <h5>{{ .Params.playbookDescription }}</h5>
+
+  <em>Play {{ .Title }} if you want to {{ .Params.reasonToPlay }}</em>
+
+  {{ .Content }}
+{{ end }}
