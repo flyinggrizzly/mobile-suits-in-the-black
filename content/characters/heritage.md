@@ -44,7 +44,7 @@ about... Life in a lab isn't easy, even at the best of times. You've likely
 endured harrowing phychological experiemnts, and you've possibly even blocked
 some of the experiences out of your mind. Regardless, you've come out changed.
 
-### Content warning
+### Content warning for the Laboratory heritage
 
 The **Laboratory** heritage is intentionally harsh and dark. The first Cyber Newtype
 characters we ever meet in _Mobile Suit Zeta Gundam_ have had incredibly
