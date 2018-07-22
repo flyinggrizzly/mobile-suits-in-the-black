@@ -3,6 +3,7 @@
   "type" : "mobile-suit",
   "msName" : "",
   "modelNumber" : "",
+  "secondaryModelNumbers" : "XXX-000, YYY-111",
   "gundamWikiLink" : "",
   "imageURL" : "",
   "msClass" : "mass-production | performance-production | unique-ace",
