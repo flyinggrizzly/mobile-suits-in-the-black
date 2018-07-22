@@ -16,5 +16,10 @@
                   "hull" : "0",
                   "weapons" : "0" }
   },
-  "specialMove" : "do a cool thing"
+  "specialMoves" : [
+    { "name" : "Move name",
+      "description" : "What the move does" },
+    { "name" : "Second move name",
+      "description" : "High end MS might have a second move" }
+  ]
 }

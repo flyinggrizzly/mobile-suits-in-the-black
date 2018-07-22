@@ -10,7 +10,7 @@
     <h3>MS Moves</h3>
   {{ range .Params.specialMoves }}
     <h4>{{ .name }}</h4>
-    <p>{{ .description }}</p>
+    <p>{{ .description | markdownify }}</p>
   {{ end }}
   </div>
 
