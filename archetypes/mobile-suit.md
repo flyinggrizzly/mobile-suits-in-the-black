@@ -5,9 +5,13 @@
   "gundamWikiLink" : "",
   "imageURL" : "",
   "msClass" : "grunt | performance | unique",
-  "systems" : { "engines" : "",
-                "comms" : "",
-                "hull" : "",
-                "weapons" : "" },
+  "startingSystems" : { "engines" : "",
+                        "comms" : "",
+                        "hull" : "",
+                        "weapons" : "" },
+  "maxSystems" : { "engines" : "",
+                   "comms" : "",
+                   "hull" : "",
+                   "weapons" : "" },
   "specialMove" : "do a cool thing"
 }
