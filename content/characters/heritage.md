@@ -3,7 +3,7 @@
 }
 
 Heritage is mechanically unchanged from _Scum and Villainy_, but the options are
-different. to match the early UC period.
+changed to match the early UC period.
 
 Heritages are:
 
