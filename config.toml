@@ -2,6 +2,8 @@ baseURL = "https://www.flyinggrizzly.net/games/mobile-suits-in-the-black/"
 publishDir = "public/mobile-suits-in-the-black"
 canonifyUrls = true
 
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Mobile Suits in the Black"
