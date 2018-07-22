@@ -6,32 +6,36 @@
   <em><a href="{{ .Params.gundamWikiLink }}">See this mobile suit on the Gundam Wiki</a></em>
 
   <div class="ms ms-systems">
-    <table>
-      <tr>
-        <thead>System</thead>
-        <thead>Starting score</thead>
-        <thead>Maximum score</thead>
-      </tr>
-      <tr>
-        <td>Weapons</td>
-        <td>{{ .Params.mobileSuitSystems.starting.weapons }}</td>
-        <td>{{ .Params.mobileSuitSystems.maximum.weapons }}</td>
-      </tr>
-      <tr>
-        <td>Hull</td>
-        <td>{{ .Params.mobileSuitSystems.starting.hull }}</td>
-        <td>{{ .Params.mobileSuitSystems.maximum.hull }}</td>
-      </tr>
-      <tr>
-        <td>Comms</td>
-        <td>{{ .Params.mobileSuitSystems.starting.comms }}</td>
-        <td>{{ .Params.mobileSuitSystems.maximum.comms }}</td>
-      </tr>
-      <tr>
-        <td>Engines</td>
-        <td>{{ .Params.mobileSuitSystems.starting.engines }}</td>
-        <td>{{ .Params.mobileSuitSystems.maximum.engines }}</td>
-      </tr>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>System</th>
+          <th>Starting score</th>
+          <th>Maximum score</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th>Weapons</th>
+          <td>{{ .Params.mobileSuitSystems.starting.weapons }}</td>
+          <td>{{ .Params.mobileSuitSystems.maximum.weapons }}</td>
+        </tr>
+        <tr>
+          <th>Hull</th>
+          <td>{{ .Params.mobileSuitSystems.starting.hull }}</td>
+          <td>{{ .Params.mobileSuitSystems.maximum.hull }}</td>
+        </tr>
+        <tr>
+          <th>Comms</th>
+          <td>{{ .Params.mobileSuitSystems.starting.comms }}</td>
+          <td>{{ .Params.mobileSuitSystems.maximum.comms }}</td>
+        </tr>
+        <tr>
+          <th>Engines</th>
+          <td>{{ .Params.mobileSuitSystems.starting.engines }}</td>
+          <td>{{ .Params.mobileSuitSystems.maximum.engines }}</td>
+        </tr>
+      </tbody>
     </table>
   </div>
 
