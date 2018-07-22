@@ -1,4 +1,6 @@
-baseURL = "https://www.flyinggrizzly.net/games/mobile-suits-in-the-black"
+baseURL = "https://www.flyinggrizzly.net/games/mobile-suits-in-the-black/"
+publishDir = "public/mobile-suits-in-the-black"
+canonifyUrls = true
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
@@ -15,8 +17,8 @@ enableMissingTranslationPlaceholders = false
 [params]
 editURL = "https://github.com/flyinggrizzly/mobile-suits-in-the-black/edit/master/content/"
 showVisitedLinks = true # default is false
-themeStyle = "original" # "original" or "flex" # default "flex"
-themeVariant = "gray" # choose theme variant "green", "gold" , "gray", "blue" (default)
+themeStyle = "flex" # "original" or "flex" # default "flex"
+themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (default)
 ordersectionsby = "weight" # ordersectionsby = "title"
 disableHomeIcon = true # default is false
 disableSearch = false # default is false
