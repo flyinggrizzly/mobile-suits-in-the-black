@@ -43,4 +43,38 @@ For the purposes of _MSitB_, the three MS classes have different system score se
 Which number is allocated to which system is a question of which MS you are piloting (though if you don't
 like the way I've statted these mobile suits, you are free to make your own!)
 
+## Statting your own Mobile Suit
+
+Totally. Do it. There are so many damn MS, *especially* once you hit the [Gryps
+Conflict](http://gundam.wikia.com/wiki/Gryps_Conflict) and [First Neo Zeon
+War](http://gundam.wikia.com/wiki/First_Neo_Zeon_War), that there's no chance I'm going to make stats
+for each one. I'm sorry if I missed your favorite.
+
+The trick to doing this is understanding that one mobile suit will be of a different class based on when
+your game is taking place. The Gelgoog is absolutely a performance suit during
+the [One Year War](http://gundam.wikia.com/wiki/One_Year_War)... but that same MS
+if piloted during the Gryps War would be a grunt unit at best.
+
+Another thing to bear in mind is whether the MS is for Newtype use. If it is,
+you'll probably want a **Comms** system score of at least two, so you can have
+both normal comms equipment, and a *psycommu* set up.
+
+## Mobile Suit special moves
+
+Each MS should have one special move that sets it apart from the other MS in its
+class. For example, the MS-06 Zaku II has the special move _Ubiquitous_, which
+grants a bonus die on repair rolls because its parts are so common. The RGM-79
+GM, another MS in the same class, instead has _Titanium Armor_, which grants it
+special armor to spend when hit by a beam attack and grants it advantage in
+speed when acting against another MS of the same class.
+
+If the MS is intended for Newtype use, think about using a special move that
+ties into the pilot's abilities. I've given the MSZ-006 Zeta the _Biocomputer_
+move, which allows a Newtype pilot to push themself to temporarily increase one
+of the MS systems to 5, or to communicate with a friend or foe on the
+battlefield uninterrupted by conflict for a moment.
+
+These special moves reflect the specific characteristics of the mobile suit, and
+tell us a story about them.
+
 [^1]: For the purposes of the game, this is close enough. And of course there's bleed between the categories. For example, we could argue that the RX-78-2 Gundam was a top-level suit at the beginning of the series, but by the end it was more of a 'performance' suit, and it was Amuro's abilities that continued to set he and it apart. And MS like the [MSN-00100 Hyaku Shiki](http://gundam.wikia.com/wiki/MSN-00100_Hyaku_Shiki) could be put into either the top or mid tiers, but it would depend on what kind of Zeta story you were trying to tell.
