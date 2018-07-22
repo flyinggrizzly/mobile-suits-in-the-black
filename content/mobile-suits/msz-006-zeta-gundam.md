@@ -18,8 +18,8 @@
   },
   "specialMoves" : [
     { "name" : "Biocomputer",
-      "description" : "The Zeta's biocomputer psycommu allows you to use your Newtype abilities to push the Zeta or yourself beyond your normal limits. When you push yourself, you can either meet a friend or foe for a moment, uninterrupted, in Newtype space, **or** temporarily increase the quality of one of the Zeta's systems to 5. You still gain the normal benefits of pushing." },
+      "description" : "Zeta's biocomputer psycommu allows you to use your Newtype abilities to push Zeta or yourself beyond your normal limits. When you push yourself, you can either meet a friend or foe for a moment, uninterrupted, in Newtype space, **or** temporarily increase the quality of one of Zeta's systems to 5. You still gain the normal benefits of pushing." },
     { "name" : "Waverider",
-      "description" : "The Zeta can transform into a waverider form that is capable of higher speeds, and unassisted atmospheric entry. When in waverider form, the Zeta's **weapons** and **hull** scores both decrease by 1, and its **engines** score increases by 2." }
+      "description" : "Zeta can transform into a Waverider form that is capable of higher speeds, and unassisted atmospheric entry. When in Waverider form, Zeta's **weapons** and **hull** scores both decrease by 1, and its **engines** score increases by 2." }
   ]
 }
