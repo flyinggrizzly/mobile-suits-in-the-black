@@ -1,5 +1,5 @@
 {
-  "title" : "MSZ 006 Zeta Gundam",
+  "title" : "MSZ-006 Zeta Gundam",
   "type" : "mobile-suit",
   "msName" : "Zeta Gundam",
   "modelNumber" : "MSZ-006",
