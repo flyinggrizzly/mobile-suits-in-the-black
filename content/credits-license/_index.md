@@ -25,7 +25,7 @@ season](https://friendsatthetable.libsyn.com/category/Twilight+Mirage) of
 [Friends at the Table](http://friendsatthetable.cash), for showing me I could
 use _Scum and Villany_ to do awesome giant robot shit.
 
-[_Armour Astir_](https://tinyurl.com/armouraster) by
+[_Armour Astir_](https://tinyurl.com/armourastir) by
 [weregazelle](https://twitter.com/weregazelle), for being an amazing giant robot
 and hard feelings game. Basically, everything I'm doing here is done better
 there ;)
