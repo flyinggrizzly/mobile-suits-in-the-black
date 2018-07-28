@@ -4,4 +4,22 @@
   <em>Play {{ .Title }} if you want to {{ .Params.reasonToPlay | markdownify }}</em>
 
   {{ .Content }}
+
+  <div class="playbook playbook-special-moves">
+    <h2>Special moves</h2>
+
+    {{ if isset .Params "startingMove" }}
+    <div id="move_{{ .params.startingMove.name | urlize }}" class="playbook special-move">
+      <h3>{{ .Params.startingMove.name }} (starting move)</h3>
+      <p>{{ .Params.startingMove.description | markdownify }}</p>
+    </div>
+    {{ end }}
+
+  {{ range .Params.specialMoves }}
+    <div id="move_{{ .name | urlize }}" class="playbook special-move">
+      <h4>{{ .name }}</h4>
+      <p>{{ .description | markdownify }}</p>
+    </div>
+  {{ end  }}
+  </div><!-- end .playbook-special-moves -->
 {{ end }}
