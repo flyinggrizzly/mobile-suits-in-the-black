@@ -4,18 +4,16 @@
   "weight" : "300"
 }
 
-The playbooks here were a first attempt, and will change.
+The playbooks offered here are what I imagine makes sense for a game set in the
+Universal Century, but it's your table and your game--you should totally play
+how you want.
 
-Instead of having Newtype playbooks, I'm thinking instead we'll have more
-standard playbooks that describe the 'normal' function of a character within the
-crew (Ace Pilot, Veteran, and Mechanic will probably stay, for example).
+For the existing _Scum and Villainy_ playbooks, I would drop **The Mystic**.
+It's a really cool playbook, but a lot of the Way moves don't quite match the
+way that mystical things usually work in the UC.
 
-And... in addition to that, I think there will be two or three Veteran Advance
-movesets for Newtypes:
+That said, there are some cool things that the Mystic does (like the
+**Psy-Blade** move) that feel a lot like what some of Gundam's Newtype
+characters do in extremis, so you could totally make it work. It might just be a
+more magical Gundam game, and if that's what you want--go nuts!
 
-- budding Newtype
-  - abilities that focus on Kamille, Quess, Lalah, and young Amuro
-- Cyber Newtype
-  - some combination of Four, Rosamia, Marida Cruz and Gyunei Guss
-- Mature Newtype (probably available to both of the previous?)
-  - mature Char, mature Amuro, Scirocco, Haman

@@ -9,14 +9,14 @@
   {{ .Content }}
 
   <div class="ms ms-moves">
-    <h3>MS Moves</h3>
+    <h3>Mobile Suit Moves</h3>
   {{ range .Params.specialMoves }}
-    <h4>{{ .name }}</h4>
-    <p>{{ .description | markdownify }}</p>
+    {{ partial "special-move.html" (dict "name" .name "description" .description) }}
   {{ end }}
   </div>
 
   <div class="ms ms-systems">
+    <h3>Mobile Suit systems</h3>
     <table class="table">
       <thead>
         <tr>
