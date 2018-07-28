@@ -1,6 +1,16 @@
 require 'html-proofer'
 require 'dotenv/tasks'
 
+desc 'it provides a short alias for dev_serve'
+task :ds do
+  Rake::Task['dev_serve'].invoke
+end
+
+desc 'it runs a dev server with a sensible base URL'
+task :dev_serve do
+  sh 'hugo server --disableFastRender --baseURL="http://localhost:1313/"'
+end
+
 # Deploy. Depends on the build and s3_push tasks
 desc 'it deploys the site with current posts'
 task :deploy do

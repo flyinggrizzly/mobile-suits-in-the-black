@@ -4,4 +4,17 @@
   <em>Play {{ .Title }} if you want to {{ .Params.reasonToPlay | markdownify }}</em>
 
   {{ .Content }}
+
+  <div class="playbook playbook-special-moves">
+    <h3>Special moves</h3>
+
+    {{ if isset .Params "startingmove" }}
+      {{ $startingMoveName := print .Params.startingMove.name " (starting move)" }}
+      {{ partial "special-move.html" (dict "name" $startingMoveName "description" .Params.startingMove.description) }}
+    {{ end }}
+
+  {{ range .Params.specialMoves }}
+    {{ partial "special-move.html" (dict "name" .name "description" .description) }}
+  {{ end  }}
+  </div><!-- end .playbook-special-moves -->
 {{ end }}
