@@ -1,8 +1,8 @@
-{
-  "title" : "Mobile Suits",
-  "weight" : "400",
-  "alwaysopen" : "true"
-}
+---
+alwaysopen: "true"
+title: Mobile Suits
+weight: "400"
+---
 
 Mobile Suits are giant, usually humanoid, robotic warmachines, and the most
 important military innovation in the Universal Century. They have become

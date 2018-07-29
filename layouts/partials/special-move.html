@@ -1,4 +1,4 @@
 <div id="move_{{ .name | urlize }}" class="{{ .Params.type }} special-move">
   <h4>{{ .name }}</h4>
-  <p>{{ .description }}</p>
+  <p>{{ .description | markdownify }}</p>
 </div>

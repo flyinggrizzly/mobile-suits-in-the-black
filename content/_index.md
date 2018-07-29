@@ -1,6 +1,6 @@
-{
-  "title" : "Mobile Suit Gundam::Forged in the Dark"
-}
+---
+title: Mobile Suit Gundam::Forged in the Dark
+---
 
 _Mobile Suits in the Black_ is a [_Forged in the
 Dark_](https://bladesinthedark.com/licensing) game that puts you in the middle

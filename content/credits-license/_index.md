@@ -1,7 +1,7 @@
-{
-  "title" : "Credits and License",
-  "weight" : "1000"
-}
+---
+title: Credits and License
+weight: "1000"
+---
 
 This is a fanwork, and should not be sold or resold.
 
