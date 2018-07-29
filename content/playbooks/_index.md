@@ -1,8 +1,8 @@
-{
-  "title" : "Playbooks",
-  "alwaysopen" : "true",
-  "weight" : "300"
-}
+---
+alwaysopen: "true"
+title: Playbooks
+weight: "300"
+---
 
 The playbooks offered here are what I imagine makes sense for a game set in the
 Universal Century, but it's your table and your game--you should totally play
