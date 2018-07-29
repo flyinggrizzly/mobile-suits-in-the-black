@@ -1,4 +1,4 @@
-{
-  "title" : "{{ replace .Name "-" " " | title }}",
-  "weight" : "1500"
-}
+---
+title : {{ replace .Name "-" " " | title }},
+weight : 1500
+---

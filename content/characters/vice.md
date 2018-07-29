@@ -1,7 +1,7 @@
-{
-  "title" : "Vice",
-  "weight" : "300"
-}
+---
+title: Vice
+weight: "300"
+---
 
 Vice is still an important part of the game.
 

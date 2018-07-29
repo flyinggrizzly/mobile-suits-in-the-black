@@ -1,7 +1,7 @@
-{
-  "title" : "Heritage",
-  "weight" : "100"
-}
+---
+title: Heritage
+weight: "100"
+---
 
 Heritage is mechanically unchanged from _Scum and Villainy_, but the options are
 changed to match the early UC period.

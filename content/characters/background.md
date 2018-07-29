@@ -1,7 +1,7 @@
-{
-  "title" : "Background",
-  "weight" : "200"
-}
+---
+title: Background
+weight: "200"
+---
 
 Background is mechanically unchanged from _Scum and Villainy_, but some of the
 options are changed to match the early UC period.
