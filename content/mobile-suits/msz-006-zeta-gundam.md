@@ -19,10 +19,9 @@ mobileSuitSystems:
     weapons: "2"
 specialMoves:
 - name: Biocomputer
-  description: Zeta's biocomputer psycommu allows you to use your Newtype abilities
-    to push Zeta or yourself beyond your normal limits. When you push yourself, you
-    can either meet a friend or foe for a moment, uninterrupted, in Newtype space,
-    **or** temporarily increase the quality of one of Zeta's systems to 5. You still
+  description: Zeta's biocomputer psycommu allows you to use your Newtype
+    abilities and push Zeta beyond its normal limits. When you push, you can
+    temporarily increase the quality of one of Zeta's systems to 5. You still
     gain the normal benefits of pushing.
 - name: Waverider
   description: Zeta can transform into a Waverider form that is capable of higher

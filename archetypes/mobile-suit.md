@@ -13,7 +13,7 @@ mobileSuitSystems:
     comms: 0
     hull: 0
     weapons: 0
-  maximum
+  maximum:
     engines: 0
     comms: 0
     hull: 0
