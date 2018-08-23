@@ -22,6 +22,11 @@ specialMoves:
     - attack multiple enemies simultaneously
     - create a field of beam-cannon fire to slow a pursuer down
   name: Funnels
+- name: Human Understanding
+  description: |
+    You can push yourself to meet a friend or foe, for a moment uninterrupted,
+    in Newtype space. You still gain the normal benefits of pushing (additional
+    die or increased effect).
 title: Newtype
 type: playbook
 ---
