@@ -32,6 +32,8 @@ Gundam](http://gundam.wikia.com/wiki/RX-93_%CE%BD_Gundam))
 
 ## Mobile Suit system scores
 
+_This whole section is going to get reworked, just FYI._
+
 For the purposes of _MSitB_, the three MS classes have different system score sets:
 
 - a mass-production unit will have 8 points to spend on systems, with no system score higher than 3
