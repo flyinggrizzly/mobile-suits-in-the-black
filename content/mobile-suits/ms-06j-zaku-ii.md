@@ -21,8 +21,8 @@ mobileSuitSystems:
 specialMoves:
 - name: Ubiquitous
   description: |
-    Zakus were everywhere, and parts are easy to find for your Zaku. As long as You get a
-    free downtime action to repair your Zaku, and you don't have to spend any
-    Cred to do it.
+    Zakus were everywhere, and parts are easy to find for your Zaku. You don't
+    need to spend Cred when you repair your Zaku, and you get get a free
+    downtime action to do it.
 
 ---
