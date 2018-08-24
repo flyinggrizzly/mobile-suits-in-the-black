@@ -68,6 +68,34 @@ Another thing to bear in mind is whether the MS is for Newtype use. If it is,
 you'll probably want a **Comms** system score of at least two, so you can have
 both normal comms equipment, and a *psycommu* set up.
 
+## Advancing, improving, and upgrading your Mobile Suit
+
+Despite the fact that mobile suits in _Mobile Suits in the Black_ are
+mechanically pretty much identical to the crew ship from core _Scum and
+Villany_, they have different rules for upgrades and advancement. This is
+because the crew ship upgrades are earned by crew XP, which doesn't accrue for
+your mobile suit.
+
+### Increasing systems scores
+
+Upgrading your mobile suit's systems is a long-term project. When you have
+access to an equipped hangar or depot (or other similar useful facility), you
+can work on a project to increase one of your mobile suit's system scores. The
+project clock for this is always an 8 clock.
+
+If that system gets damaged in a sortie before the clock is finished, untick 1
+segment in addition to marking the system damage.
+
+### Adding new modules
+
+Adding modules to a mobile suit is also a long-term project, but in this case it
+is a 6-clock. The normal rules about module capacity based on system score
+apply.
+
+If the system that supports the module is damaged before you finish the project,
+there isn't a setback to the project, though you might need to repair the system
+if it reduced your system's capacity to hold the new module.
+
 ## Mobile Suit special moves
 
 Each MS should have one special move that sets it apart from the other MS in its
