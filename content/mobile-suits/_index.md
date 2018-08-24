@@ -95,7 +95,7 @@ projects, and reduces the Cred cost by 1.
 
 Adding modules to a mobile suit is also a long-term project, but in this case it
 is a 6-clock. The normal rules about module capacity based on system score
-apply.
+apply. A module costs 1 Cred.
 
 If the system that supports the module is damaged before you finish the project,
 there isn't a setback to the project, though you might need to repair the system
