@@ -32,21 +32,27 @@ Gundam](http://gundam.wikia.com/wiki/RX-93_%CE%BD_Gundam))
 
 ## Mobile Suit system scores
 
-_This whole section is going to get reworked, just FYI._
+The Mobile Suit examples that I've created have different stat blocks for each
+class:
 
-For the purposes of _MSitB_, the three MS classes have different system score sets:
+- a **grunt** or **mass-production** unit's system scores will
+  - have maximums that total to somewhere between 5 to 8, with no single system
+      score over 3
+  - have starting scores that total to 3 or 4
 
-- a mass-production unit will have 8 points to spend on systems, with no system score higher than 3
-  - [3, 2, 2, 1] and [3, 3, 1, 1] are both valid mass-production system score sets
-- a performance unit will have 11 points to spend on systems, with at most one system score of 4
-  - [3, 3, 3, 2], [4, 3, 3, 1], and [4, 3, 2, 2] are all valid performance or personal system score sets
-- a unique unit will have 13 points to spend on systems
-  - [4, 4, 3, 2], [4, 3, 3, 3], and [4, 4, 4, 1] are all valid unique system score sets
+- a **performance** or **test** unit's system scores will
+  - have maximums that total to 10 or 11, with at most one system
+      score of 4
+  - have starting scores that total to 6 to 8
+
+- a **unique** or **custom** unit's scores will
+  - have maximums that total to 13 or 14
+  - have starting scores that total to 9 to 12
 
 Which number is allocated to which system is a question of which MS you are piloting (though if you don't
 like the way I've statted these mobile suits, you are free to make your own!)
 
-## Statting your own Mobile Suit
+### Statting your own Mobile Suit
 
 Totally. Do it. There are so many damn MS, *especially* once you hit the [Gryps
 Conflict](http://gundam.wikia.com/wiki/Gryps_Conflict) and [First Neo Zeon
