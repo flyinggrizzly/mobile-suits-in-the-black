@@ -1,6 +1,6 @@
 {{ define "main" }}
   <h5>{{ .Params.modelNumber }} {{ .Params.msName }}</h5>
-  Class: {{ .Params.msClass | title }} | <em><a href="{{ .Params.gundamWikiLink }}">See this mobile suit on the Gundam Wiki</a></em>
+  Class: {{ .Params.msClass | title }} | <em><a rel="noopener noreferrer nofollow" href="{{ .Params.gundamWikiLink }}">See this mobile suit on the Gundam Wiki</a></em>
 
   <div class="ms-portrait">
     <img src="{{ .Params.imageURL }}" alt="a picture of the {{ .Title }} mobile suit"/>
