@@ -32,21 +32,30 @@ Gundam](http://gundam.wikia.com/wiki/RX-93_%CE%BD_Gundam))
 
 ## Mobile Suit system scores
 
-_This whole section is going to get reworked, just FYI._
+The Mobile Suit examples that I've created have different stat blocks for each
+class:
 
-For the purposes of _MSitB_, the three MS classes have different system score sets:
+a **grunt** or **mass-production** unit's system scores will
 
-- a mass-production unit will have 8 points to spend on systems, with no system score higher than 3
-  - [3, 2, 2, 1] and [3, 3, 1, 1] are both valid mass-production system score sets
-- a performance unit will have 11 points to spend on systems, with at most one system score of 4
-  - [3, 3, 3, 2], [4, 3, 3, 1], and [4, 3, 2, 2] are all valid performance or personal system score sets
-- a unique unit will have 13 points to spend on systems
-  - [4, 4, 3, 2], [4, 3, 3, 3], and [4, 4, 4, 1] are all valid unique system score sets
+- have maximums that total to somewhere between 5 to 8, with no single system
+    score over 3
+- have starting scores that total to 3 or 4
+
+a **performance** or **test** unit's system scores will
+
+- have maximums that total to 10 or 11, with at most one system
+    score of 4
+- have starting scores that total to 6 to 8
+
+a **unique** or **custom** unit's scores will
+
+- have maximums that total to 13 or 14
+- have starting scores that total to 9 to 12
 
 Which number is allocated to which system is a question of which MS you are piloting (though if you don't
 like the way I've statted these mobile suits, you are free to make your own!)
 
-## Statting your own Mobile Suit
+### Statting your own Mobile Suit
 
 Totally. Do it. There are so many damn MS, *especially* once you hit the [Gryps
 Conflict](http://gundam.wikia.com/wiki/Gryps_Conflict) and [First Neo Zeon
@@ -62,6 +71,39 @@ Another thing to bear in mind is whether the MS is for Newtype use. If it is,
 you'll probably want a **Comms** system score of at least two, so you can have
 both normal comms equipment, and a *psycommu* set up.
 
+## Advancing, improving, and upgrading your Mobile Suit
+
+Despite the fact that mobile suits in _Mobile Suits in the Black_ are
+mechanically pretty much identical to the crew ship from core _Scum and
+Villany_, they have different rules for upgrades and advancement. This is
+because the crew ship upgrades are earned by crew XP, which doesn't accrue for
+your mobile suit.
+
+### Increasing systems scores
+
+Upgrading your mobile suit's systems is a long-term project. When you have
+access to an equipped hangar or depot (or other similar useful facility), you
+can work on a project to increase one of your mobile suit's system scores. The
+project clock for this is always an 8 clock. When the project begins, you must
+pay Cred equal to the new system score (so increasing a score from 2 to 3 would
+cost 3 Cred).
+
+If that system gets damaged in a sortie before the clock is finished, untick 1
+segment in addition to marking the system damage.
+
+The Mechanic's _Bailing wire and twine_ ability can also be used for upgrade
+projects, and reduces the Cred cost by 1.
+
+### Adding new modules
+
+Adding modules to a mobile suit is also a long-term project, but in this case it
+is a 6-clock. The normal rules about module capacity based on system score
+apply. A module costs 1 Cred.
+
+If the system that supports the module is damaged before you finish the project,
+there isn't a setback to the project, though you might need to repair the system
+if it reduced your system's capacity to hold the new module.
+
 ## Mobile Suit special moves
 
 Each MS should have one special move that sets it apart from the other MS in its
@@ -71,11 +113,10 @@ GM, another MS in the same class, instead has _Titanium Armor_, which grants it
 special armor to spend when hit by a beam attack and grants it advantage in
 speed when acting against another MS of the same class.
 
-If the MS is intended for Newtype use, think about using a special move that
-ties into the pilot's abilities. I've given the MSZ-006 Zeta the _Biocomputer_
-move, which allows a Newtype pilot to push themself to temporarily increase one
-of the MS systems to 5, or to communicate with a friend or foe on the
-battlefield uninterrupted by conflict for a moment.
+If the MS is intended for Newtype use, it might get a second special move. Think
+about using a special move that ties into the pilot's abilities. I've given the
+MSZ-006 Zeta the _Biocomputer_ move, which allows a Newtype pilot to push
+themself to temporarily increase one of the MS systems to 5.
 
 These special moves reflect the specific characteristics of the mobile suit, and
 tell us a story about them.

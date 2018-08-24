@@ -5,7 +5,7 @@ msName: "Zaku"
 modelNumber: "MS-06J"
 secondaryModelNumbers: MS-06
 gundamWikiLink: "http://gundam.wikia.com/wiki/MS-06_Zaku_II"
-imageURL: "https://vignette.wikia.nocookie.net/gundam/images/8/8d/Ms-06f.jpg/revision/latest?cb=20140902160701"
+imageURL: "https://vignette.wikia.nocookie.net/gundam/images/8/8d/Ms-06f.jpg"
 msClass: mass-production
 mobileSuitSystems:
   starting:

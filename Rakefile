@@ -2,12 +2,12 @@ require 'html-proofer'
 require 'dotenv/tasks'
 
 desc 'it provides a short alias for dev_serve'
-task :ds do
-  Rake::Task['dev_serve'].invoke
+task :s do
+  Rake::Task['serve'].invoke
 end
 
 desc 'it runs a dev server with a sensible base URL'
-task :dev_serve do
+task :serve do
   sh 'hugo server --disableFastRender --baseURL="http://localhost:1313/"'
 end
 
