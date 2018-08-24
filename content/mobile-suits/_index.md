@@ -81,10 +81,15 @@ your mobile suit.
 Upgrading your mobile suit's systems is a long-term project. When you have
 access to an equipped hangar or depot (or other similar useful facility), you
 can work on a project to increase one of your mobile suit's system scores. The
-project clock for this is always an 8 clock.
+project clock for this is always an 8 clock. When the project begins, you must
+pay Cred equal to the new system score (so increasing a score from 2 to 3 would
+cost 3 Cred).
 
 If that system gets damaged in a sortie before the clock is finished, untick 1
 segment in addition to marking the system damage.
+
+The Mechanic's _Bailing wire and twine_ ability can also be used for upgrade
+projects, and reduces the Cred cost by 1.
 
 ### Adding new modules
 
