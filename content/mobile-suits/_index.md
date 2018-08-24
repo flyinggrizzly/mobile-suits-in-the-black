@@ -35,19 +35,22 @@ Gundam](http://gundam.wikia.com/wiki/RX-93_%CE%BD_Gundam))
 The Mobile Suit examples that I've created have different stat blocks for each
 class:
 
-- a **grunt** or **mass-production** unit's system scores will
-  - have maximums that total to somewhere between 5 to 8, with no single system
-      score over 3
-  - have starting scores that total to 3 or 4
+a **grunt** or **mass-production** unit's system scores will
 
-- a **performance** or **test** unit's system scores will
-  - have maximums that total to 10 or 11, with at most one system
-      score of 4
-  - have starting scores that total to 6 to 8
+- have maximums that total to somewhere between 5 to 8, with no single system
+    score over 3
+- have starting scores that total to 3 or 4
 
-- a **unique** or **custom** unit's scores will
-  - have maximums that total to 13 or 14
-  - have starting scores that total to 9 to 12
+a **performance** or **test** unit's system scores will
+
+- have maximums that total to 10 or 11, with at most one system
+    score of 4
+- have starting scores that total to 6 to 8
+
+a **unique** or **custom** unit's scores will
+
+- have maximums that total to 13 or 14
+- have starting scores that total to 9 to 12
 
 Which number is allocated to which system is a question of which MS you are piloting (though if you don't
 like the way I've statted these mobile suits, you are free to make your own!)
@@ -110,11 +113,10 @@ GM, another MS in the same class, instead has _Titanium Armor_, which grants it
 special armor to spend when hit by a beam attack and grants it advantage in
 speed when acting against another MS of the same class.
 
-If the MS is intended for Newtype use, think about using a special move that
-ties into the pilot's abilities. I've given the MSZ-006 Zeta the _Biocomputer_
-move, which allows a Newtype pilot to push themself to temporarily increase one
-of the MS systems to 5, or to communicate with a friend or foe on the
-battlefield uninterrupted by conflict for a moment.
+If the MS is intended for Newtype use, it might get a second special move. Think
+about using a special move that ties into the pilot's abilities. I've given the
+MSZ-006 Zeta the _Biocomputer_ move, which allows a Newtype pilot to push
+themself to temporarily increase one of the MS systems to 5.
 
 These special moves reflect the specific characteristics of the mobile suit, and
 tell us a story about them.
