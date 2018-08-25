@@ -1,7 +1,7 @@
 ---
 alwaysopen: "true"
 title: Playbooks
-weight: "300"
+weight: "400"
 ---
 
 The playbooks offered here are what I imagine makes sense for a game set in the
