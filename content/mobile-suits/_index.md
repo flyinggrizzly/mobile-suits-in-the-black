@@ -1,7 +1,7 @@
 ---
 alwaysopen: "true"
 title: Mobile Suits
-weight: "400"
+weight: "600"
 ---
 
 Mobile Suits are giant, usually humanoid, robotic warmachines, and the most
