@@ -16,17 +16,6 @@ specialMoves:
     that door, or around that asteroid. They, of course, sense the your pressure
     on their psyche as well. When acting on this information your position and
     effect are either Desperate-Great, or Controlled-Limited.
-- name: Funnels
-  description: |
-    Any mobile suit equipped with a **psychoframe** that you sortie in can
-    deploy **funnels** or **bits**, which are small remote-controlled
-    beam-cannons capable of moving themselves around in space at your mental
-    command. You can spend Stress, one for one, for any of the following
-    effects:
-
-    - attack an enemy from a direction they're not expecting
-    - attack multiple enemies simultaneously
-    - create a field of beam-cannon fire to slow a pursuer down
 - name: Human Understanding
   description: |
     You can push yourself to meet a friend or foe, for a moment uninterrupted,
