@@ -4,6 +4,13 @@ reasonToPlay: play as a young and idealistic recruit with an outside perspective
   the conflict, like Michel Ninorich from _08th MS Team_
 title: Rookie
 type: playbook
+startingActionDots:
+- action: rig
+  dots: 1
+- action: consort
+  dots: 1
+- action: scramble
+  dots: 1
 startingMove:
   name: Letters home
   description: When you roll Entanglements after a mission, you may narrate a
