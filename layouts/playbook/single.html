@@ -5,7 +5,20 @@
 
   {{ .Content }}
 
-  <div class="playbook playbook-special-moves">
+  <div class="playbook playbook-section playbook-action-dots">
+    <h3>Starting actions</h3>
+    {{ if isset .Params "startingactiondots" }}
+      <table class="playbook playbook-action-dots-table"><tbody>
+      {{ range .Params.startingActionDots }}
+        <tr>
+          <th>{{ humanize .action }}</th><td>{{ .dots }}</td>
+        </tr>
+      {{ end }}
+      </tbody></table>
+    {{ end }}
+  </div>
+
+  <div class="playbook playbook-section playbook-special-moves">
     <h3>Special moves</h3>
 
     {{ if isset .Params "startingmove" }}
