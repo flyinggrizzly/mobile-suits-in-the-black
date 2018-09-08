@@ -25,3 +25,9 @@ startingMove:
 
 ---
 
+development watchwords:
+
+- adaptable
+- idealistic
+- terrified
+- unprepared
