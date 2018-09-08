@@ -30,3 +30,10 @@ specialMoves:
     stress for failed rolls when leading a group action.
 
 ---
+
+development watchwords:
+
+- insightful
+- blooded
+- remorseless
+- lost
