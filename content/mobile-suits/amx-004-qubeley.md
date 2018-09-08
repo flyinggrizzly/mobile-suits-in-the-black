@@ -32,3 +32,5 @@ specialMoves:
     - create a field of beam-cannon fire to slow a pursuer down
 
 ---
+
+This mobile suit is a unique/ace suit in Zeta, but pretty quickly becomes a performance model by the end of ZZ.
