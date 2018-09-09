@@ -1,5 +1,4 @@
 ---
-alwaysopen: "true"
 title: Characters
 weight: "200"
 ---

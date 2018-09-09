@@ -19,7 +19,7 @@ enableMissingTranslationPlaceholders = false
 [params]
 author = "Sean DMR <sean@flyinggrizzly.net>"
 description = "A Mobile Suit Gundam playset for Scum and Villainy by Offguard Games"
-editURL = "https://github.com/flyinggrizzly/mobile-suits-in-the-black/edit/master/content/"
+editURL = "https://github.com/flyinggrizzly/mobile-suits-in-the-black/edit/release/content/"
 showVisitedLinks = true # default is false
 themeStyle = "flex" # "original" or "flex" # default "flex"
 themeVariant = "red" # choose theme variant "green", "gold" , "gray", "blue" (default)
