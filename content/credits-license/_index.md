@@ -34,4 +34,7 @@ there ;)
 
 Logo created from Gundam by Simon Child from the Noun Project.
 
+Logo font is ["Amuro"](http://www.fontspace.com/pixel-sagas/amuro), licensed for
+non-commercial use.
+
 Favicon giant robot by sahua d from the Noun Project.
