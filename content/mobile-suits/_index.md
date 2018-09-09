@@ -1,5 +1,4 @@
 ---
-alwaysopen: "true"
 title: Mobile Suits
 weight: "600"
 ---

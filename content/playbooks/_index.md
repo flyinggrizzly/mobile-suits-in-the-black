@@ -1,5 +1,4 @@
 ---
-alwaysopen: "true"
 title: Playbooks
 weight: "400"
 ---
