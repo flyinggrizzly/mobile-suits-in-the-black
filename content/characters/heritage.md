@@ -66,5 +66,7 @@ example of a relatively happy person who underwent Cyber Newtype treatment
 voluntarily... but then, he wasn't a child abducted by one of the Gryps
 Conflict-era Newtype Labs.
 
-You don't have to choose this heritage to play a Cyber Newtype, and be sure to
-talk to your table about what people are comfortable with.
+You don't have to choose this heritage to play a Cyber Newtype. You could be
+undergoing treatment during the game, and taking moves from the Cyber Newtype
+playbook as veteran advances, for example. If you do choose this heritage, be
+sure to talk to your table about what people are comfortable with.
