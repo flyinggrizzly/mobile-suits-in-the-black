@@ -17,6 +17,8 @@ defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 
 [params]
+author = "Sean DMR <sean@flyinggrizzly.net>"
+description = "A Mobile Suit Gundam playset for Scum and Villainy by Offguard Games"
 editURL = "https://github.com/flyinggrizzly/mobile-suits-in-the-black/edit/master/content/"
 showVisitedLinks = true # default is false
 themeStyle = "flex" # "original" or "flex" # default "flex"
@@ -24,9 +26,18 @@ themeVariant = "red" # choose theme variant "green", "gold" , "gray", "blue" (de
 ordersectionsby = "weight" # ordersectionsby = "title"
 disableHomeIcon = false # default is false
 disableSearch = false # default is false
+# Javascript and CSS cache are automatically busted when new version of site is generated. 
+# Set this to true to disable this behavior (some proxies don't handle well this optimization)
+disableAssetsBusting = false
 disableNavChevron = true # set true to hide next/prev chevron, default is false
+# Set this to true to disable copy-to-clipboard button for inline code.
+disableInlineCopyToClipBoard = false
+# A title for shortcuts in menu is set by default. Set this to true to disable it. 
+disableShortcutsTitle = false
 highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
 menushortcutsnewtab = false # set true to open shortcuts links to a new tab/window
+# When using mulitlingual website, disable the switch language button.
+disableLanguageSwitchingButton = false
 enableGitInfo = true
 
 [outputs]
