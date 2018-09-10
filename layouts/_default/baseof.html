@@ -1,7 +1,9 @@
 {{ partial "header.html" . }}
 
 {{ if eq .Page.Params.tableOfContents true }}
+<aside class="msitb page-nav">
   {{ .TableOfContents }}
+</aside>
 {{ end }}
 
 {{ block "main" . }}
