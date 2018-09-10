@@ -4,9 +4,6 @@ type: playbook
 playbookDescription: An accomplished Newtype, beginning to push the edge of their
   abilities.
 reasonToPlay: play as a seasoned Newtype, like Char or Amuro from Zeta or later.
-startingActionDots:
-- attune: 2
-- helm: 1
 specialMoves:
 - name: Entangled Minds
   description: |
@@ -23,3 +20,8 @@ specialMoves:
     die or increased effect).
 ---
 
+For the moment, the Newtype is going to be more a repository of moves for other
+playbooks to take as Veteran Advances as your characters develop as Newtypes.
+
+In a later version of the game, there might be a fully-fledged Newtype playbook,
+but for now it's just a 'moveset'.

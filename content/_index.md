@@ -14,7 +14,7 @@ by Stras Acimovic and John LeBoeuf-Little. You'll need _SaV_ to play this.
 _MSitB_ makes the following changes to _SaV_:
 
 - changes for characters
-  - adds some playbooks, and makes some suggestions about which _SaV_ playbooks
+  - adds some playbook drafts, and makes some suggestions about which _SaV_ playbooks
     will work well with the new ones (pending)
   - provides some Veteran Advance movesets for discovering your character's
     latent Newtype abilities, or for expressing the powers awakened in them when
