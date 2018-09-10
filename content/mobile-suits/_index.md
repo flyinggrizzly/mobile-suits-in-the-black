@@ -74,34 +74,34 @@ both normal comms equipment, and a *psycommu* set up.
 
 Despite the fact that mobile suits in _Mobile Suits in the Black_ are
 mechanically pretty much identical to the crew ship from core _Scum and
-Villany_, they have different rules for upgrades and advancement. This is
+Villainy_, they have different rules for upgrades and advancement. This is
 because the crew ship upgrades are earned by crew XP, which doesn't accrue for
 your mobile suit.
 
+When your crew earns a Crew advance, one of the upgrades available to you is
+"Mobile Suit upgrades". When the crew takes this upgrade (and it can be taken as
+many times as you like, including twice at once by spending both upgrades
+earned from a crew advance), each mobile suit gets one upgrade box to spend on
+its own systems, upgrades, or modules.
+
+You don't have to spend these upgrades on the mobile suits immediately--if
+you want to improve a mobile suit system to quality 4, for example, you'll need
+to save up four upgrades to do it.
+
+You will also need to leave the mobile suit in a fully equipped hangar (possibly
+at Von Braun or at La Vie en Rose) while the work is done. This is a great time
+for a non-mobile suit based score!
+
 ### Increasing systems scores
 
-Upgrading your mobile suit's systems is a long-term project. When you have
-access to an equipped hangar or depot (or other similar useful facility), you
-can work on a project to increase one of your mobile suit's system scores. The
-project clock for this is always an 8 clock. When the project begins, you must
-pay Cred equal to the new system score (so increasing a score from 2 to 3 would
-cost 3 Cred).
-
-If that system gets damaged in a sortie before the clock is finished, untick 1
-segment in addition to marking the system damage.
-
-The Mechanic's _Bailing wire and mech-tape ability can also be used for upgrade
-projects, and reduces the Cred cost by 1.
+Increasing a mobile suit's system scores requires you to spend upgrades at a
+cost of 1 upgrade per level of new score. So going from a score of 0 to 1 would
+cost one upgrade, and from 2 to 3 would cost three upgrades.
 
 ### Adding new modules
 
-Adding modules to a mobile suit is also a long-term project, but in this case it
-is a 6-clock. The normal rules about module capacity based on system score
-apply. A module costs 1 Cred.
-
-If the system that supports the module is damaged before you finish the project,
-there isn't a setback to the project, though you might need to repair the system
-if it reduced your system's capacity to hold the new module.
+Adding new modules works the same way it does for a ship--spend the required
+number of upgrades on the module, and spend some time in drydock.
 
 ## Mobile Suit special moves
 
