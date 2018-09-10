@@ -1,6 +1,8 @@
 ---
 title: Mobile Suits
 weight: "600"
+tableOfContents: true
+
 ---
 
 Mobile Suits are giant, usually humanoid, robotic warmachines, and the most
