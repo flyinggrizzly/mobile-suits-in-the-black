@@ -90,7 +90,7 @@ cost 3 Cred).
 If that system gets damaged in a sortie before the clock is finished, untick 1
 segment in addition to marking the system damage.
 
-The Mechanic's _Bailing wire and twine_ ability can also be used for upgrade
+The Mechanic's _Bailing wire and mech-tape ability can also be used for upgrade
 projects, and reduces the Cred cost by 1.
 
 ### Adding new modules
