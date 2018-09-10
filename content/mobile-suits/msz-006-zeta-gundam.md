@@ -18,8 +18,8 @@ mobileSuitSystems:
     hull: "2"
     weapons: "2"
 specialMoves:
-- name: Biocomputer
-  description: Zeta's biocomputer psycommu allows you to use your Newtype
+- name: Biosensor
+  description: Zeta's biosensor psycommu allows you to use your Newtype
     abilities and push Zeta beyond its normal limits. When you push, you can
     temporarily increase the quality of one of Zeta's systems to 5. You still
     gain the normal benefits of pushing.
