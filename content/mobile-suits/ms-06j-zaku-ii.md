@@ -1,7 +1,7 @@
 ---
 title: MS-06J Zaku II
 type: mobile-suit
-msName: "Zaku"
+msName: "Zaku II"
 modelNumber: "MS-06J"
 secondaryModelNumbers: MS-06
 gundamWikiLink: "http://gundam.wikia.com/wiki/MS-06_Zaku_II"
