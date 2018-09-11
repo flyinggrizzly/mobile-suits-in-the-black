@@ -31,9 +31,4 @@ on the Github repo and I'll get to it as soon as I can.
 
 ### Things to be aware of if you're working with Hugo
 
-- footnotes (which should be avoided if possible), have to be on a single line
-- frontmatter should be in JSON format (there are archetypes set up for
-  playbooks and mobile suits currently), and if you've got a long entry, it also
-  needs to be on a single line
-
-
+Footnotes (which should be avoided if possible) have to be on a single line.
