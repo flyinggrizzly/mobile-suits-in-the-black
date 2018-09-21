@@ -33,6 +33,14 @@ use _Scum and Villainy_ to do awesome giant robot shit.
 and hard feelings game. Basically, everything I'm doing here is done better
 there ;)
 
+[_Girl by Moonlight_](http://192.168.0.10:3000/cd93da64-c935-48dc-bf7c-28f20304e9b5#),
+a _Forged in the Dark_ game in development by [Andrew
+Gillis](https://twitter.com/commutingcrow). They have created a really beautiful
+game, and the way they have broken apart and reworked the core _Blades_ formula
+has been a huge part of what made me want to try reworking the game as well. The
+drama, hope, and sorrow that drips out of this game is beautiful. Plus, the _On
+a Sea of Stars_ version is about giant mecha too.
+
 ## Images
 
 Logo created from [Gundam](https://thenounproject.com/search/?q=gundam&i=21128)
