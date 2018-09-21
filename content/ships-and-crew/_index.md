@@ -30,7 +30,7 @@ When a crew begins, the players as a group will _narrate_ episode one. This is
 the story of how you came to be the crew you are, and how you gained your first
 claim. If you think of the first episodes of _Mobile Suit Gundam_, where the
 crew of the White Base finds themselves the unlikely crew of a carrier, or
-_Mobile Suit Zeta Gundam_, where Bajeena's Rick Dias team steams the Gundam Mark
+_Mobile Suit Zeta Gundam_, where Bajeena's Rick Dias team steals the Gundam Mark
 II, that should give you a good idea. This is your first claim, and it is the
 thing you _must_ stake during your first mission. And if you lose it in the
 fallout of that mission... your struggle continues, but you will have to figure
