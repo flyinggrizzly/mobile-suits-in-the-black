@@ -1,6 +1,7 @@
 ---
 title: Playbooks
-weight: "400"
+weight: 300
+
 ---
 
 There are some new playbooks and moves here--these are some ideas I'm playing

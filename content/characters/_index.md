@@ -1,6 +1,7 @@
 ---
 title: Characters
-weight: "200"
+weight: 200
+
 ---
 
 In _MSitB_, you will play pilots, mechanics, technicians, and other soldiers on
