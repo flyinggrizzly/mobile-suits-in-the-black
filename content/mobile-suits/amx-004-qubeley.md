@@ -1,5 +1,5 @@
 ---
-title: AMX-004 Quebeley
+title: AMX-004 Qubeley
 type: mobile-suit
 msName: "Qubeley"
 modelNumber: "AMX-004"
