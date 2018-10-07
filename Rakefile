@@ -8,7 +8,7 @@ end
 
 desc 'it runs a dev server with a sensible base URL'
 task :serve do
-  sh 'hugo server --disableFastRender --baseURL="http://localhost:1313/"'
+  sh 'hugo -d /var/www/msitb -w --baseURL="//go.grz.li/msitb"'
 end
 
 # Deploy. Depends on the build and s3_push tasks
