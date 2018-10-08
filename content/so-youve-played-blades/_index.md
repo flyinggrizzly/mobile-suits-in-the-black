@@ -1,5 +1,5 @@
 ---
-title: Differences from Blades in the Dark and Scum and Villainy
+title: So you've played Blades...
 weight: 100
 
 ---
