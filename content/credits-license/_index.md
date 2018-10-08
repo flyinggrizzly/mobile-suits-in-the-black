@@ -41,6 +41,11 @@ has been a huge part of what made me want to try reworking the game as well. The
 drama, hope, and sorrow that drips out of this game is beautiful. Plus, the _On
 a Sea of Stars_ version is about giant mecha too.
 
+The **Friction** track and the **Commander**'s Hard Choices move both come from
+[_The Sprawl_](http://www.ardens.org/games/the-sprawl/) by Hamish Cameron.
+Specifically, Friction is an adaptation of the Action Clock, and Hard Choices
+comes from The Soldier playbook's Here's the Plan move.
+
 ## Images
 
 Logo created from [Gundam](https://thenounproject.com/search/?q=gundam&i=21128)
