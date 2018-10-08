@@ -206,7 +206,7 @@ fallout:
         there something they want?
     six:
       available: false
-      name: entanglement six
+      name: Leaks
   frict_10:
     one:
       avaiable: true
