@@ -1,0 +1,208 @@
+
+:root{
+    
+    --MAIN-TEXT-color:#323232; /* Color of text by default */
+    --MAIN-TITLES-TEXT-color: #5e5e5e; /* Color of titles h2-h3-h4-h5 */
+    --MAIN-LINK-color:#f31c1c; /* Color of links */
+    --MAIN-LINK-HOVER-color:#d01616; /* Color of hovered links */
+    --MAIN-ANCHOR-color: #f31c1c; /* color of anchors on titles */
+
+    --MENU-HEADER-BG-color:#dc1010; /* Background color of menu header */
+    --MENU-HEADER-BORDER-color:#e23131; /*Color of menu header border */ 
+
+    --MENU-SEARCH-BG-color:#b90000; /* Search field background color (by default borders + icons) */
+    --MENU-SEARCH-BOX-color: #ef2020; /* Override search field border color */
+    --MENU-SEARCH-BOX-ICONS-color: #fda1a1; /* Override search field icons color */
+
+    --MENU-SECTIONS-ACTIVE-BG-color:#2b2020; /* Background color of the active section and its childs */
+    --MENU-SECTIONS-BG-color:#312525; /* Background color of other sections */
+    --MENU-SECTIONS-LINK-color: #ccc; /* Color of links in menu */
+    --MENU-SECTIONS-LINK-HOVER-color: #e6e6e6;  /* Color of links in menu, when hovered */
+    --MENU-SECTION-ACTIVE-CATEGORY-color: #777; /* Color of active category text */
+    --MENU-SECTION-ACTIVE-CATEGORY-BG-color: #fff; /* Color of background for the active category (only) */
+    
+    --MENU-VISITED-color: #ff3333; /* Color of 'page visited' icons in menu */
+    --MENU-SECTION-HR-color: #2b2020; /* Color of <hr> separator in menu */
+    
+}
+
+body {
+    color: var(--MAIN-TEXT-color) !important;
+}
+
+textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="url"]:focus, input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, select[multiple=multiple]:focus {
+    border-color: none;
+    box-shadow: none;
+}
+
+h2, h3, h4, h5 {
+    color: var(--MAIN-TITLES-TEXT-color) !important;
+}
+
+a {
+    color: var(--MAIN-LINK-color);
+}
+
+.anchor {
+    color: var(--MAIN-ANCHOR-color);
+}
+
+a:hover {
+    color: var(--MAIN-LINK-HOVER-color);
+}
+
+#sidebar ul li.visited > a .read-icon {
+	color: var(--MENU-VISITED-color);
+}
+
+#body a.highlight:after {
+    display: block;
+    content: "";
+    height: 1px;
+    width: 0%;
+    -webkit-transition: width 0.5s ease;
+    -moz-transition: width 0.5s ease;
+    -ms-transition: width 0.5s ease;
+    transition: width 0.5s ease;
+    background-color: var(--MAIN-LINK-HOVER-color);
+}
+#sidebar {
+	background-color: var(--MENU-SECTIONS-BG-color);
+}
+#sidebar #header-wrapper {
+    background: var(--MENU-HEADER-BG-color);
+    color: var(--MENU-SEARCH-BOX-color);
+    border-color: var(--MENU-HEADER-BORDER-color);
+}
+#sidebar .searchbox {
+	border-color: var(--MENU-SEARCH-BOX-color);
+    background: var(--MENU-SEARCH-BG-color);
+}
+#sidebar ul.topics > li.parent, #sidebar ul.topics > li.active {
+    background: var(--MENU-SECTIONS-ACTIVE-BG-color);
+}
+#sidebar .searchbox * {
+    color: var(--MENU-SEARCH-BOX-ICONS-color);
+}
+
+#sidebar a {
+    color: var(--MENU-SECTIONS-LINK-color);
+}
+
+#sidebar a:hover {
+    color: var(--MENU-SECTIONS-LINK-HOVER-color);
+}
+
+#sidebar ul li.active > a {
+    background: var(--MENU-SECTION-ACTIVE-CATEGORY-BG-color);
+    color: var(--MENU-SECTION-ACTIVE-CATEGORY-color) !important;
+}
+
+#sidebar hr {
+    border-color: var(--MENU-SECTION-HR-color);
+}
+
+/* Theme fixes */
+div.notices {
+  padding-bottom: 5px;
+}
+div.notices > * {
+  margin: 0px;
+  padding-bottom: 5px;
+}
+div.notices.info {
+    border-top: 2px solid #F0B37E;
+    background: #FFF2DB;
+}
+div.notices.warning {
+    border-top: 2px solid rgba(217, 83, 79, 0.8);
+    background: #FAE2E2;
+}
+div.notices.note {
+    border-top: 2px solid #6AB0DE;
+    background: #E7F2FA;
+}
+div.notices.tip {
+    border-top: 2px solid rgba(92, 184, 92, 0.8);
+    background: #E6F9E6;
+}
+
+/* Custom styles */
+
+.preview-branch {
+  display: block;
+  color: black;
+  font-size: .8rem;
+  text-align: left;
+  border-left: 4px solid green;
+  padding-left: 6px;
+  background: lightgreen;
+}
+
+.preview-branch pre {
+  display: inline-block;
+  margin: 0;
+  padding: 2px; 4px;
+}
+
+.two-col-container {
+  column-count: 2;
+  column-width: 50%;
+  margin-top: 15px;
+}
+
+.two-col {
+  break-inside: avoid-column;
+  -webkit-column-break-inside: avoid;
+  padding: 0 10px;
+  display: table;
+}
+
+.ship-description {
+  margin-top: 0;
+  font-size: 1.2rem;
+  line-height: 1.4rem;
+}
+.ship-description::after {
+  content: '';
+  display: block;
+  margin: 30px auto;
+  width: 30%;
+  border-bottom: 1px solid darkgrey;
+}
+
+.ship-resource-tier {
+  font-family: serif;
+  font-style: italic;
+  font-size: 1.5rem;
+  color: lightgray;
+  border-bottom: 1px solid lightgray;
+  margin-top: 10px;
+  width: 100%;
+}
+
+.ship-fallout {
+  clear: both;
+}
+
+.ship-fallout-tier {
+  float: left;
+  width: 100%;
+  min-width: 250px;
+  margin: 2px;
+}
+
+@media screen and (min-width: 950px) {
+  .ship-fallout-tier {
+    width: 32%;
+  }
+}
+
+.ship-fallout-tier table {
+  border-top: 8px solid lightgray;
+  border-bottom: 8px solid lightgray;
+}
+
+.ship-fallout-descriptions {
+  clear: both;
+}

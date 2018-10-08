@@ -19,7 +19,7 @@ enableMissingTranslationPlaceholders = false
 [params]
   description = "A Mobile Suit Gundam playset for Scum and Villainy by Offguard Games"
   author = "Sean DMR <sean@flyinggrizzly.net>"
-  themeVariant = "red" # choose theme variant "green", "gold" , "gray", "blue" (default)
+  themeVariant = "msitb" # choose theme variant "green", "gold" , "gray", "blue" (default)
   showVisitedLinks = true
   disableSearch = false
   disableShortcutsTitle = true
