@@ -1,0 +1,30 @@
+<div class="ship ship-fallout-tier">
+  <h4>{{ .friction }} friction</h4>
+  <table>
+    <tbody>
+      {{ with .data.one }}
+      {{ partial "ship-fallout-row.html" (dict "number" "1" "name" .name "available" .available) }}
+      {{ end }}
+
+      {{ with .data.two }}
+      {{ partial "ship-fallout-row.html" (dict "number" "2" "name" .name "available" .available) }}
+      {{ end }}
+
+      {{ with .data.three }}
+      {{ partial "ship-fallout-row.html" (dict "number" "3" "name" .name "available" .available) }}
+      {{ end }}
+
+      {{ with .data.four }}
+      {{ partial "ship-fallout-row.html" (dict "number" "4" "name" .name "available" .available) }}
+      {{ end }}
+
+      {{ with .data.five }}
+      {{ partial "ship-fallout-row.html" (dict "number" "5" "name" .name "available" .available) }}
+      {{ end }}
+
+      {{ with .data.six }}
+      {{ partial "ship-fallout-row.html" (dict "number" "6" "name" .name "available" .available) }}
+      {{ end }}
+    </tbody>
+  </table>
+</div>

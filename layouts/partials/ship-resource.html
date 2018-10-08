@@ -1,0 +1,18 @@
+<div class="ship ship-resource two-col">
+  <div class="ship-resource-detail">
+    <h4>{{ humanize .name }}</h4>
+    <div class="ship ship-resource-detail-body">
+      <p>{{ trim .description "\n" | markdownify }}</p>
+
+      {{ $benefit_length := strings.RuneCount .benefit  }}
+      {{ if ne 0 $benefit_length }}
+      <p><strong>Benefit:</strong> {{ .benefit | markdownify }}</p>
+      {{ end }}
+
+      {{ $strings_length := strings.RuneCount .strings }}
+      {{ if ne 0 $strings_length }}
+      <p><strong>Strings:</strong> {{ .strings | markdownify }}</p>
+      {{ end }}
+    </div>
+  </div>
+</div>
