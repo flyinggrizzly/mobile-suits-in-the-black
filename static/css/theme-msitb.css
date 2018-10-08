@@ -147,7 +147,7 @@ div.notices.tip {
 
 .two-col-container {
   column-count: 2;
-  column-width: 50%;
+  column-width: 250px;
   margin-top: 15px;
 }
 
