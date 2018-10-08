@@ -13,15 +13,16 @@ startingActionDots:
   dots: 1
 startingMove:
   name: Letters home
-  description: When you roll Entanglements after a mission, you may narrate a
+  description: When you roll Fallout after a mission, you may narrate a
     letter or journal entry your character has written. Describe some of the
     crew's actions or victories in the last sortie, and introduce a new threat
     created by them. Describe how this new threat puts you, your team, or one of
     your team's friends in the crosshairs. The friend can either be a contact,
-    or a member of a faction your crew has a positive status with. The GM will
-    start a 4-clock for bringing this new threat to bear, and tick it once
-    immediately. This counts as the team's Entanglement for the mission. You may
-    do this before or after you see the result of the normal Entanglement roll.
+    an ally, or a member of a resource organization (a financial backer or
+    materiel supplier maybe). The GM will start a 4-clock for bringing this new
+    threat to bear, and tick it once immediately. This counts as the team's
+    Fallout for the mission. You may do this before or after you see the
+    result of the normal Fallout roll.
 
 ---
 

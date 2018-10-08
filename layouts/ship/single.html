@@ -1,0 +1,58 @@
+{{ define "main" }}
+  <p class="ship-description">{{ .Params.shipDescription | markdownify }}</p>
+
+  {{ .Content }}
+
+  {{ if isset .Params "resources" }}
+    <div class="ship ship-resources">
+      <h3>Resources</h3>
+
+      <div class="ship-resource-tier">Tier I</div>
+      <div class="two-col-container">
+      {{ range .Params.resources.tier_1 }}
+        {{ partial "ship-resource.html"  (dict "name" .name "tier" "I" "description" .description "benefit" .benefit "strings" .strings) }}
+      {{ end }}
+      </div>
+
+      <div class="ship-resource-tier">Tier II</div>
+      <div class="two-col-container">
+      {{ range .Params.resources.tier_2 }}
+        {{ partial "ship-resource.html"  (dict "name" .name "tier" "II" "description" .description "benefit" .benefit "strings" .strings) }}
+      {{ end }}
+      </div>
+
+      <div class="ship-resource-tier">Tier III</div>
+      <div class="two-col-container">
+      {{ range .Params.resources.tier_3 }}
+        {{ partial "ship-resource.html"  (dict "name" .name "tier" "III" "description" .description "benefit" .benefit "strings" .strings) }}
+      {{ end }}
+      </div>
+
+      <div class="ship-resource-tier">Tier IV</div>
+      <div class="two-col-container">
+      {{ range .Params.resources.tier_4 }}
+        {{ partial "ship-resource.html"  (dict "name" .name "tier" "IV" "description" .description "benefit" .benefit "strings" .strings) }}
+      {{ end }}
+      </div>
+    </div>
+  {{ end }}
+
+  {{ with .Params.fallout }}
+    <div class="ship ship-fallout">
+      <h3>Fallout</h3>
+      {{ with .frict_5 }}
+        {{ partial "ship-fallout-table.html" (dict "friction" "0 to 5" "data" .) }}
+      {{ end }}
+
+      {{ with .frict_8 }}
+        {{ partial "ship-fallout-table.html" (dict "friction" "6 to 8" "data" .) }}
+      {{ end }}
+
+      {{ with .frict_10 }}
+        {{ partial "ship-fallout-table.html" (dict "friction" "9 to 10" "data" .) }}
+      {{ end }}
+
+      {{ partial "ship-fallout-descriptions.html" . }}
+    </div>
+  {{ end }}
+{{ end }}

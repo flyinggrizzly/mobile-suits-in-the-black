@@ -13,16 +13,15 @@ startingMove:
   description: |
     Before the start of a mission, you have to make a call. If
     you have the crew attack just there, or at just that time, you'll have an
-    edge. Your crew has potency on their actions as long as they follow your
+    edge. Your crew has potency on all actions as long as they follow your
     directives for the mission. But there's a cost... there's always a cost.
     Choose one:
 
     - Harm that your crew takes during this mission is 1 level higher than it
         would normally be, because you've put them directly in the line of fire.
-    - The GM starts a 6-clock, which they will fill as the mission proceeds
-        (most likely on failed rolls). When it is full, the enemy's elite
-        reinforcements arrive. They outclass you, even with your tactical
-        edge.
+    - Start the mission with +3 Friction.
+    - When you reach 5 Friction on this mission, the enemy deploys an Ace unit
+      to take you out.
 specialMoves:
 - name: Shrewd Commander
   description: |

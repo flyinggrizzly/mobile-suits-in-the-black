@@ -1,0 +1,34 @@
+<div class="ship ship-fallout-descriptions two-col-container">
+  {{ with .frict_5 }}
+    {{ range . }}
+      {{ if isset . "description" }}
+      <div class="ship ship-fallout-description two-col">
+        <h4>{{ .name }}</h4>
+        <p>{{ .description | markdownify }}</p>
+      </div>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ with .frict_8 }}
+    {{ range . }}
+      {{ if isset . "description" }}
+      <div class="ship ship-fallout-description two-col">
+        <h4>{{ .name }}</h4>
+        <p>{{ .description | markdownify }}</p>
+      </div>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ with .frict_10 }}
+    {{ range . }}
+      {{ if isset . "description" }}
+      <div class="ship ship-fallout-description two-col">
+        <h4>{{ .name }}</h4>
+        <p>{{ .description | markdownify }}</p>
+      </div>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</div>

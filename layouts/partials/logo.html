@@ -1,1 +1,5 @@
 <a href="/"><img src='/images/msitb-logo.png' alt='two Gundam mobile suits' height='150' /></a>
+
+{{ with getenv "LIVE_BRANCH" }}
+<span class="preview-branch">Currently viewing work in progress on <a href="https://github.com/flyinggrizzly/mobile-suits-in-the-black/tree/{{ . }}"><pre>{{ . }}</pre></a></span>
+{{ end }}
