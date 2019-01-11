@@ -13,9 +13,9 @@ both Soldiers, and Strategic Officers. The other will be the game's MC[^1].
 
 When you are playing your Soldier, you will take to the battlefield, both on
 foot and in your **FRACT**. It is the Soldier's job to deliver on the orders and
-designs of the Strategy Officers.
+designs of the Tacticians.
 
-When you are in the role of your Strategy Officer, you represent one of the
+When you are in the role of your Tactician, you represent one of the
 factions sponsoring the Resistance. It is your job to guide the Resistance's
 plans and choices towards success... whether that's the Resistance's success or
 your own faction's is up to you to choose.
