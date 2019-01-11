@@ -129,6 +129,14 @@ div.notices.tip {
 
 /* Custom styles */
 
+.attribute-adjective {
+  width: 0.8em;
+  margin: 0 !important;
+  padding: 0;
+  padding-top: 2px !important;
+  display: inline-block !important;
+}
+
 .preview-branch {
   display: block;
   color: black;
@@ -151,7 +159,13 @@ div.notices.tip {
   margin-top: 15px;
 }
 
-.two-col {
+.three-col-container {
+  column-count: 3;
+  column-width: 200px;
+  margin-top: 15px;
+}
+
+.two-col, .three-col {
   break-inside: avoid-column;
   -webkit-column-break-inside: avoid;
   padding: 0 10px;
