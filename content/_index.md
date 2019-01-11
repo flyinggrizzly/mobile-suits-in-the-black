@@ -1,26 +1,25 @@
 ---
-title: Mobile Suit Gundam::Forged in the Dark
+title: Against the Titals of War::Forged in the Dark
 ---
 
-_Mobile Suits in the Black_ is a [_Forged in the
+_Against the Titans of War_ is a [_Forged in the
 Dark_](https://bladesinthedark.com/licensing) game that puts you in the middle
-of one of the conflicts in the early Universal Century timeline of the Mobile
-Suit Gundam series.
+of a seemingly endlessly escalating series of wars and conflicts waged with
+machines called FRACTS. You play as the Resistance, fighting against a corrupt
+army who controls Earth and space. They are the Enemy.
 
-Actually... that's a little bit of a lie. This is really a playset for [Scum and
-Villainy](https://www.evilhat.com/home/scum-and-villainy/), an _excellent_ game
-by Stras Acimovic and John LeBoeuf-Little. You'll need _SaV_ to play this.
+It is a game for 4 to 5 players. All but one of you will take on the role of
+both Soldiers, and Strategic Officers. The other will be the game's MC[^1].
 
-_MSitB_ makes the following changes to _SaV_:
+When you are playing your Soldier, you will take to the battlefield, both on
+foot and in your FRACT. It is the Soldier's job to deliver on the orders and
+designs of the Strategy Officers.
 
-- changes for characters
-  - adds some playbook drafts, and makes some suggestions about which _SaV_ playbooks
-    will work well with the new ones (pending)
-  - provides some Veteran Advance movesets for discovering your character's
-    latent Newtype abilities, or for expressing the powers awakened in them when
-    they were made into a Cyber Newtype (pending)
-  - provides some new backgrounds and heritages
-- provides some guidelines for creating mobile suits from the Mobile Suit Gundam
-  series' as personal vehicles
-- provides a faction list for the Earth Sphere during the early UC (pending)
+When you are in the role of your Strategy Officer, you represent one of the
+factions sponsoring the Resistance. It is your job to guide the Resistance's
+plans and choices towards success... whether that's the Resistance's success or
+your own faction's is up to you to choose.
 
+[^1]: Prefer "MC" over "GM" because this is a primarily collaborative game, and
+  the MC role should be as focused on stage-managing the work of the rest of the
+  players and world as on creating it.
