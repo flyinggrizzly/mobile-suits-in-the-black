@@ -57,3 +57,8 @@ non-commercial use.
 
 Favicon [giant robot by sahua
 d](https://thenounproject.com/search/?q=gundam&i=1766731) from the Noun Project.
+
+The raised fist icon used for attribute adjectives is sourced from [Font
+Awesome](https://fontawesome.com/icons/fist-raised?style=solid), and used under 
+the [Creative Commons Attribution 4.0 International
+license](https://fontawesome.com/license).
