@@ -1,5 +1,5 @@
 ---
-title: Against the Titals of War::Forged in the Dark
+title: Against the Titans of War
 ---
 
 _Against the Titans of War_ is a [_Forged in the
