@@ -45,7 +45,8 @@ comes from The Soldier playbook's Here's the Plan move.
 
 Logo created from [Gundam](https://thenounproject.com/search/?q=gundam&i=21128)
 by Simon Child from the Noun Project (and its [palette-swapped
-version](https://thenounproject.com/search/?q=gundam&i=21127))
+version](https://thenounproject.com/search/?q=gundam&i=21127)), and [this
+head](https://thenounproject.com/search/?q=gundam&i=21587)
 
 Logo font is ["Amuro"](http://www.fontspace.com/pixel-sagas/amuro), licensed for
 non-commercial use.
