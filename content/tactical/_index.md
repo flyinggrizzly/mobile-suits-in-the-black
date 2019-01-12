@@ -49,7 +49,8 @@ result. If you roll a **crit** (two or more 6s if you have 2 or more
 **influence**), take 9 **STRAT**.
 
 You might also have additional **STRAT** from mission **Riders** or **Orders**
-that were completed on the last mission.
+that were completed on the last mission, or **STRAT** penalties from oversend or
+Soldiers taking and spending **Contempt** on you.
 
 **STRAT** does not roll over--if you don't use it during the current **Tactical
 phase**, it cannot be used in the next one.
