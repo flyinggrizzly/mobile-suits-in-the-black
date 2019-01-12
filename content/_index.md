@@ -9,11 +9,11 @@ machines called **Gripanvars**. You play as the Resistance, fighting against a c
 army who controls Earth and space. They are the Enemy.
 
 It is a game for 4 to 5 players. All but one of you will take on the role of
-both Soldiers, and Strategic Officers. The other will be the game's MC[^1].
+both Soldiers, and Tactical Officers. The other will be the game's MC[^1].
 
 When you are playing your Soldier, you will take to the battlefield, both on
 foot and in your **Gripanvar**. It is the Soldier's job to deliver on the orders and
-designs of the Tacticians.
+designs of the Tactical Officers.
 
 When you are in the role of your Tactician, you represent one of the
 factions sponsoring the Resistance. It is your job to guide the Resistance's

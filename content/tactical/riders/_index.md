@@ -1,4 +1,4 @@
 ---
-title: Tacticians
+title: Riders
 weight: 300
 ---
