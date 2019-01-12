@@ -48,8 +48,10 @@ by Simon Child from the Noun Project (and its [palette-swapped
 version](https://thenounproject.com/search/?q=gundam&i=21127)), and [this
 head](https://thenounproject.com/search/?q=gundam&i=21587)
 
-Logo font is ["Amuro"](http://www.fontspace.com/pixel-sagas/amuro), licensed for
-non-commercial use.
+Logo font is ["Amuro"](http://www.fontspace.com/pixel-sagas/amuro),
+[licensed](https://www.fontspace.com/help/#license-18) for commercial and
+non-commercial use (please [contact me](mailto:hi@grz.li) if you have questions
+about the donation made to procure the license).
 
 Favicon [giant robot by sahua
 d](https://thenounproject.com/search/?q=gundam&i=1766731) from the Noun Project.
