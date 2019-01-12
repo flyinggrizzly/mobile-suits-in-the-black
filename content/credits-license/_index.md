@@ -53,8 +53,8 @@ Logo font is ["Amuro"](http://www.fontspace.com/pixel-sagas/amuro),
 non-commercial use (please [contact me](mailto:hi@grz.li) if you have questions
 about the donation made to procure the license).
 
-Favicon [giant robot by sahua
-d](https://thenounproject.com/search/?q=gundam&i=1766731) from the Noun Project.
+Favicon from [Gundam](https://thenounproject.com/search/?q=gundam&i=21589) also
+by Simon Child from the Noun Project.
 
 The raised fist icon used for attribute adjectives is sourced from [Font
 Awesome](https://fontawesome.com/icons/fist-raised?style=solid), and used under 
