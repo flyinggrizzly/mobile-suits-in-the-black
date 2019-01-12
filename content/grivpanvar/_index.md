@@ -1,5 +1,5 @@
 ---
-title: Gripanvars
+title: Grivpanvar
 weight: 400
 ---
 
