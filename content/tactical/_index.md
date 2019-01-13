@@ -50,7 +50,8 @@ Once you have determined your total **Influence**, you need to decide how to
 spend it: you can use your **Influence** to roll **STRAT**, or you can spend any
 amount of **Influence** to increase your faction's
 [**Momentum**](/factions/#momentum) 1 for 1 in order to eventually build its
-strength.
+strength. You can also spend **Momentum** to increase the **Influence** you roll
+for **STRAT**
 
 ### Determining STRAT
 
