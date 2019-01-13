@@ -16,12 +16,12 @@ defeating the Enemy.
 ## The Tactical phase
 
 The first thing you do when you begin playing _Against the Titans of War_, after
-you've finished [creating your characters, the Resistance, the Enemy, and your
-factions](#link-to-first-session-rules), is begin your first **Tactical phase**.
-Your MC will have some information for you about the Enemy and their goals, and
-you will take on the roles of your **Tactical Officers** and decide how the
-Resistance responds. You will also return to the **Tactical phase** when you have
-resolved [**fallout**](/missions-tier-and-resources/#fallout-entanglements) after each
+you've created your characters, the Resistance, the Enemy, and your factions, is
+begin your first **Tactical phase**. Your MC will have some information for you
+about the Enemy and their goals, and you will take on the roles of your
+**Tactical Officers** and decide how the Resistance responds. You will also
+return to the **Tactical phase** when you have resolved
+[**fallout**](/missions-tier-and-resources/#fallout-entanglements) after each
 mission.
 
 In **Tactical phase**, you should follow these steps:
