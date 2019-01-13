@@ -1,12 +1,12 @@
-baseURL = "https://www.flyinggrizzly.net/games/mobile-suits-in-the-black/"
-publishDir = "public/mobile-suits-in-the-black"
+baseURL = "https://www.flyinggrizzly.net/games/against-the-titans-of-war/"
+publishDir = "public/against-the-titans-of-war"
 canonifyUrls = true
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Mobile Suits in the Black"
+title = "Against the Titans of War"
 theme = "learn"
 themesdir = "./themes"
 pygmentsCodeFences = true
@@ -17,7 +17,7 @@ defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 
 [params]
-  description = "A Mobile Suit Gundam playset for Scum and Villainy by Offguard Games"
+  description = "A game about drawing former enemies and allies together to resist a corrupt oppressor"
   author = "Sean DMR <sean@flyinggrizzly.net>"
   themeVariant = "msitb" # choose theme variant "green", "gold" , "gray", "blue" (default)
   showVisitedLinks = true
