@@ -4,7 +4,7 @@ weight: 200
 ---
 
 When you play _Against the Titans of War_, you will play pilots, mechanics, technicians,
-and other soldiers on a **Grivpanvar** carrier. Each of these characters are unique
+and other soldiers on a **FRACT** carrier. Each of these characters are unique
 individuals, and their own heritages and backgrounds inform their perspectives
 on the world and the war.
 
@@ -53,7 +53,7 @@ The {{<attr-adj-icon >}} marks that the adjective is not a normal action you
 roll. These are **Veteran Adjectives**. Your Soldiers earn these special adjectives as they grow and gain
 experience.
 
-When your Soldier is piloting their **Grivpanvar**, any action roll will have **reduced effect**
+When your Soldier is piloting their **FRACT**, any action roll will have **reduced effect**
 until the Soldier has the veteran adjective in action's attribute.
 
 Once they have it, they get an extra die when using that attribute to resist as
@@ -66,5 +66,5 @@ Soldiers don't start with any **Veteran Adjectives**, except for the **Ace** and
 **Veteran** playbooks.
 
 **Veteran Adjectives** are earned by making **desperate** actions
-when piloting your **Grivpanvar**. Taking a **Veteran Adjective** requires filling the
+when piloting your **FRACT**. Taking a **Veteran Adjective** requires filling the
 attribute XP track **twice**.

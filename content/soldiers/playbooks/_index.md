@@ -22,8 +22,8 @@ The playbooks in _Titans_ are...
 
 #### The Ace
 
-is an experienced and dangerous **Griv** pilot. Play the Ace if you want
-to **show off just _how much better_ you are** in your **Griv** than anyone
+is an experienced and dangerous **FRACT** pilot. Play the Ace if you want
+to **show off just _how much better_ you are** in your **FRACT** than anyone
 else.
 
 #### The Commander
@@ -41,8 +41,8 @@ enemies close to you.
 
 #### The Machinist
 
-is the hands and mind that keep the **Grivs** running and your
-soldiers alive. Play the Machinist if you want to keep the **Grivs** running
+is the hands and mind that keep the **FRACTs** running and your
+soldiers alive. Play the Machinist if you want to keep the **FRACTs** running
 and **invent new tools to win the war and survive**.
 
 #### The ReMade
