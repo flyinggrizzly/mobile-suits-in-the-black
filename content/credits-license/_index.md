@@ -12,16 +12,15 @@ Logo is used with permission.*
             link="https://bladesinthedark.com/licensing" >}}
 
 The game _Against the Titans of War_ is licensed on the same [Creative Commons
-CC BY 3.0 license](https://creativecommons.org/licenses/by/3.0/) as _Blades_,
-with the exception of material copyrighted by Sotsu Sunrise, Namco Bandai, or
-any other Gundam IP holder.
+CC BY 3.0 license](https://creativecommons.org/licenses/by/3.0/) as _Blades_.
 
 ## Game influences
 
 The [Twilight Mirage
 season](https://friendsatthetable.libsyn.com/category/Twilight+Mirage) of
 [Friends at the Table](http://friendsatthetable.cash), for showing me I could
-use _Scum and Villainy_ to do awesome giant robot shit.
+use _Scum and Villainy_ to do awesome giant robot shit (even if I've left the
+_SaV_ rules-as-base behind).
 
 [_Armour Astir_](https://tinyurl.com/armourastir) by
 [weregazelle](https://twitter.com/weregazelle), for being an amazing giant robot
@@ -36,10 +35,23 @@ has been a huge part of what made me want to try reworking the game as well. The
 drama, hope, and sorrow that drips out of this game is beautiful. Plus, the _On
 a Sea of Stars_ version is about giant mecha too.
 
+[_Beam Saber_](https://tinyurl.com/beamsaber), another _Forged in the Dark_ game
+by [Austin Ramsay](https://twitter.com/notaninn), about the pilots of giant
+mechs in a war that never ends. Austin's game and this one sound like they could
+be very samey, but he's done a lot of cool things with character connections and
+has built up an amazing setting for it. I love this game.
+
 The **Friction** track and the **Commander**'s Hard Choices move both come from
 [_The Sprawl_](http://www.ardens.org/games/the-sprawl/) by Hamish Cameron.
 Specifically, Friction is an adaptation of the Action Clock, and Hard Choices
 comes from The Soldier playbook's Here's the Plan move.
+
+**Contempt** comes more or less straight from [_The Quiet
+Year_](https://buriedwithoutceremony.com/the-quiet-year/) by [Avery
+Alder](https://twitter.com/dreamaskew) (also at
+[buriedwithoutceremony.com](https://buriedwithoutceremony.com/)). This is a
+lovely game that I've tried to keep in mind, even if not steal from (other than
+Contempt) for the Tactical phase here.
 
 ## Images
 
