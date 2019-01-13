@@ -20,6 +20,4 @@ factions sponsoring the Resistance. It is your job to guide the Resistance's
 plans and choices towards success... whether that's the Resistance's success or
 your own faction's is up to you to choose.
 
-[^1]: Prefer "MC" over "GM" because this is a primarily collaborative game, and
-  the MC role should be as focused on stage-managing the work of the rest of the
-  players and world as on creating it.
+[^1]: Prefer "MC" over "GM" because this is a primarily collaborative game, and the MC role should be as focused on stage-managing the work of the rest of the players and world as on creating it.
