@@ -26,10 +26,31 @@ mission.
 
 In **Tactical phase**, you should follow these steps:
 
+0. Each **Tactical Officer** decides to how much **Influence** to spend on their
+   faction's growth, and how much to spend on Resistance operations
 1. Determine each **Tactical Officer's** **STRAT** for the phase
 2. Decide on the Resistance's next objective
 3. Attach **Riders** to the mission objective
 4. Submit **Orders** to the MC
+
+### Allocating Influence
+
+Your faction's **Influence** for the **Tactical phase** is determined by how
+involved and supportive you were on the last mission. Take 1 **Influence** for
+each of the following:
+
+- the squad used one of the resources your faction supports in the last mission.
+    If the squad used more than 1, take 1 **Influence** per resource used
+- a Soldier on the squad is from your faction
+- a **Rider** or **Order** was completed on the last mission that gave you an
+    extra **Influence** (take 1 **Influence** for each of these if there were
+    more than one)
+
+Once you have determined your total **Influence**, you need to decide how to
+spend it: you can use your **Influence** to roll **STRAT**, or you can spend any
+amount of **Influence** to increase your faction's
+[**Momentum**](/factions/#momentum) 1 for 1 in order to eventually build its
+strength.
 
 ### Determining STRAT
 
@@ -41,8 +62,9 @@ You can use **STRAT** to make sure the Resistance stays on track and has the
 best chance of defeating the Enemy... or you can use it selfishly to get the Resistance to
 help your own faction into a better position.
 
-To determine your **Tactical Officer's** **STRAT**, roll your current
-[**influence**](/tactical/influence/). If your current **influence** is 0, [roll
+To determine your **Tactical Officer's** **STRAT**, roll the
+[**Influence**](/tactical/influence/) you've decided to use for Resistance
+operations. If your current **Influence** is 0, [roll
 0d6](https://bladesinthedark.com/core-system#rolling-the-dice) (roll 2d6 and
 take the lowest result). Your base **STRAT** is equal to the single highest die
 result. If you roll a **crit** (two or more 6s if you have 2 or more
