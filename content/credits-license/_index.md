@@ -3,8 +3,6 @@ title: Credits and License
 weight: "1000"
 ---
 
-This is a fanwork, and should not be sold or resold.
-
 *Blades in the Dark™ is a trademark of One Seven Design. The Forged in the Dark
 Logo is used with permission.*
 
@@ -13,10 +11,7 @@ Logo is used with permission.*
             height="100px"
             link="https://bladesinthedark.com/licensing" >}}
 
-All Gundam intellectual properties referenced here are the copyright of Namco
-Bandai through Sotsu Sunrise.
-
-The game _Mobile Suits in the Black_ is licensed on the same [Creative Commons
+The game _Against the Titans of War_ is licensed on the same [Creative Commons
 CC BY 3.0 license](https://creativecommons.org/licenses/by/3.0/) as _Blades_,
 with the exception of material copyrighted by Sotsu Sunrise, Namco Bandai, or
 any other Gundam IP holder.
@@ -50,10 +45,18 @@ comes from The Soldier playbook's Here's the Plan move.
 
 Logo created from [Gundam](https://thenounproject.com/search/?q=gundam&i=21128)
 by Simon Child from the Noun Project (and its [palette-swapped
-version](https://thenounproject.com/search/?q=gundam&i=21127))
+version](https://thenounproject.com/search/?q=gundam&i=21127)), and [this
+head](https://thenounproject.com/search/?q=gundam&i=21587)
 
-Logo font is ["Amuro"](http://www.fontspace.com/pixel-sagas/amuro), licensed for
-non-commercial use.
+Logo font is ["Amuro"](http://www.fontspace.com/pixel-sagas/amuro),
+[licensed](https://www.fontspace.com/help/#license-18) for commercial and
+non-commercial use (please [contact me](mailto:hi@grz.li) if you have questions
+about the donation made to procure the license).
 
-Favicon [giant robot by sahua
-d](https://thenounproject.com/search/?q=gundam&i=1766731) from the Noun Project.
+Favicon from [Gundam](https://thenounproject.com/search/?q=gundam&i=21589) also
+by Simon Child from the Noun Project.
+
+The raised fist icon used for attribute adjectives is sourced from [Font
+Awesome](https://fontawesome.com/icons/fist-raised?style=solid), and used under 
+the [Creative Commons Attribution 4.0 International
+license](https://fontawesome.com/license).

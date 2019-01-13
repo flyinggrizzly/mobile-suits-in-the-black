@@ -1,6 +1,6 @@
 ---
 title: Missions, Tier, and Resources
-weight: 500
+weight: 600
 
 ---
 
