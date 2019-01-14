@@ -3,7 +3,7 @@ title: FRACTs
 weight: 300
 ---
 
-**FRACTs** are the giant man-machines that your Soldiers can pilot in the war.
+**FRACTs** are the giant humanoid machines that your Soldiers can pilot in the war.
 You don't have to pilot these--in fact, it is entirely possible to play _Against
 the Titans of War_ without these massive mecha existing in your world at all.
 But if you want to... this is how you create and use a **FRACT**.
