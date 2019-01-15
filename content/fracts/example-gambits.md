@@ -39,18 +39,16 @@ If you need inspiration, the core _Blades_ playbook special abilities are great.
 
 Your FRACT has +3 Damage slots, and the Flaw "Heavy".
 
-When you fill your Damage track, you can eject the Chobham Armor. When you do,
+When you fill your Damage track, you can shed the Chobham Armor. When you do,
 clear your Damage track, remove the 3 extra slots, and ignore the "Heavy" flaw.
 
 Instead of Chobham Armor, you may take a Heavy Weapons System. If you do, only
-add +2 Damage slots, but also add +2 Load. When you eject the HWS, in addition
+add +2 Damage slots, but also add +2 Load. When you shed the HWS, in addition
 to clearing Damage, dropping the Damage slots, and ignoring the "Heavy" Flaw,
 you also lose access to the extra Load.
 
 
 
 
-
----
 
 [^1]: Because I wear my heart on my sleeve and am a giant nerd.
