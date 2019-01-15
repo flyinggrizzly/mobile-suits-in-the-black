@@ -35,19 +35,34 @@ If you need inspiration, the core _Blades_ playbook special abilities are great.
 
 ## Examples
 
-### Chobham Armor or Heavy Weapons System
+The **Chobham Armor** and **Heavy Weapons System** are gambits for FRACTs that
+have detachable equipment for extra protection, or protection and firepower that
+can be shed for a gain in mobility and a fresh Damage track.
 
-Your FRACT has +3 Damage slots, and the Flaw "Heavy".
+#### Chobham Armor
 
-When you fill your Damage track, you can shed the Chobham Armor. When you do,
-clear your Damage track, remove the 3 extra slots, and ignore the "Heavy" flaw.
+Your FRACT has +4 Damage slots, and the Flaw "Heavy".
 
-Instead of Chobham Armor, you may take a Heavy Weapons System. If you do, only
-add +2 Damage slots, but also add +2 Load. When you shed the HWS, in addition
-to clearing Damage, dropping the Damage slots, and ignoring the "Heavy" Flaw,
-you also lose access to the extra Load.
+At any point, including when you have filled your Damage track and would usually
+have to send your FRACT back to base, you can shed the Chobham Armor:
+
+- clear your Damage track
+- remove the 4 extra slots
+- ignore the "Heavy" flaw until the armor is reapplied
 
 
+#### Heavy Weapons System
+
+Your FRACT has +2 Damage slots, +2 Load, and the Flaw "Heavy".
+
+At any point, including when you have filled your Damage track and would usually
+have to send your FRACT back to base, you can shed the Heavy Weapons System:
+
+- clear your Damage track
+- remove the 2 extra Damage slots
+- reduce your Load by 2, or if you have declared all or part of the 2 Load,
+    choose 2 Load worth of empty slots and gear to leave behind
+- ignore the "Heavy" flaw until the armor is reapplied
 
 
 
