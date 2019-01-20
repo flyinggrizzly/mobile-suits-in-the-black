@@ -1,5 +1,5 @@
 ---
-title: Contempt, Tension, and Crisis
+title: Contempt
 weight: 900
 ---
 
@@ -13,8 +13,8 @@ A Soldier either has **Contempt**. You can't have 'two contempt'. When you take
 you spend it this will be important.
 
 Spending **Contempt** ratchets up the tension in the Resistance, and you will
-mark the **Tension track**. When the **Tension track** is full, you are in
-**Crisis**.
+mark the [**Tension track**](/tactical/tension-crisis/). When the **Tension
+track** is full, you are in [**Crisis**](/tactical/tension-crisis#crises).
 
 ## Using Contempt
 
@@ -73,29 +73,3 @@ way, don't. Find another use for it. There are other really good uses for it.
 Sometimes it takes getting burned to learn and grow. You can spend your
 **Contempt** to just take whatever betrayal gave it to you on the chin and learn
 something new. Mark 2 Playbook XP.
-
-## Tension track and Crisis
-
-Every time a Soldier spends **Contempt**, the Resistance marks the **Tension
-track**. When the 10th mark is made, you are in **Crisis**.
-
-When the Resistance is in **Crisis**, the organization is consumed in
-infighting. Do all of the following:
-
-- discard any unresolved **Orders** and **Riders**. The crisis is all-consuming
-    and communications are too unreliable for these to matter anymore
-- roll for a **Crisis**
-- mark a **Crisis** on the **Crisis track**
-
-#### Crises
-
-Roll 1d for each **Crisis** already marked (not including this one):
-
-| Result | Crisis |
-| --- | --- |
-| **Crit** | The Enemy has turned the leadership of the sponsor faction with the greatest **Strength**. Either they join the Enemy, or lose 9 **Momentum** to resist and deal with the traitors. If this crisis occurs while you are on a mission, it fails immediately. If the sponsor joined the enemy you are immediately attacked by the forces of this new alliance (begin a new mission to deal with the attack as if you had rolled a 1-3 on Engagement). |
-| **6** | The Enemy attacks you _now_. If you are on a mission, it does not fail, but they immediately show up. |
-| **4/5** | You catch wind that the Enemy is negotiating with one of the sponsor factions. How will you deal with this? All Soldiers get only 1 Downtime action. |
-| **1-3** | All Soldiers get only 1 Downtime action in the next Downtime phase because there is so much to do to get everyone back on board. |
-
-

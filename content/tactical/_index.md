@@ -46,12 +46,18 @@ each of the following:
     extra **Influence** (take 1 **Influence** for each of these if there were
     more than one)
 
+For each of these, take -1 **Influence**:
+
+- a Soldier spent **Contempt** that they took because of one of your actions
+- a Soldier completed a **Rider** or **Order**, likely placed by another sponsor
+    faction, that caused you to lose **Influence**
+
 Once you have determined your total **Influence**, you need to decide how to
 spend it: you can use your **Influence** to roll **STRAT**, or you can spend any
 amount of **Influence** to increase your faction's
 [**Momentum**](/factions/#momentum) 1 for 1 in order to eventually build its
 strength. You can also spend **Momentum** to increase the **Influence** you roll
-for **STRAT**
+for **STRAT** this turn.
 
 ### Determining STRAT
 
@@ -69,11 +75,7 @@ operations. If your current **Influence** is 0, [roll
 0d6](https://bladesinthedark.com/core-system#rolling-the-dice) (roll 2d6 and
 take the lowest result). Your base **STRAT** is equal to the single highest die
 result. If you roll a **crit** (two or more 6s if you have 2 or more
-**influence**), take 9 **STRAT**.
-
-You might also have additional **STRAT** from mission **Riders** or **Orders**
-that were completed on the last mission, or **STRAT** penalties from oversend or
-Soldiers taking and spending **Contempt** on you.
+**influence**), take 8 **STRAT**.
 
 **STRAT** does not roll over--if you don't use it during the current **Tactical
 phase**, it cannot be used in the next one.
@@ -111,7 +113,7 @@ faction that placed the **Rider**, they mark 2 XP.
 
 It costs 1 **STRAT** to attach one **Rider** to a mission or goal.
 
-As a**Tactical Officer**, attaching **Riders** to a mission is a good way to
+As a **Tactical Officer**, attaching **Riders** to a mission is a good way to
 privilege your own faction's benefit over the general benefit of the Resistance
 or other sponsor factions. Keep in mind that **Riders** are open knowledge, and
 Soldiers may take **Contempt** if they disagree.
