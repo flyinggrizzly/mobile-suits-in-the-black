@@ -1,8 +1,13 @@
 ---
-title: Ace
+title: the Ace
 type: playbook
-playbookDescription: A commander, who specializes in leading and supporting their team.
-reasonToPlay: play as an experienced commander or leader, like Bright Noa, or Shiro Amada from _08 MS Team_.
+playbookDescription: |
+  A pilot whose abilities verge on the supernatural or impossible, a pilot who
+  thrills to meet a worthy opponent and possibly has more kinship with them than
+  with command.
+reasonToPlay: |
+  play the fastest hardest motherf***er on the field, like Char from _Gundam_,
+  Maverick from _Top Gun_, or Asuka Langley Soryu from _Evangelion_.
 startingActionDots:
 - action: command
   dots: 1
@@ -11,8 +16,8 @@ startingActionDots:
 startingMoves:
 - name: Dangerous
   description: |
-    Mark the **CannY** or **Practiced** **veteran adjective**, or take 1
-    **Trauma** and mark both.
+    Mark the **Canny** or **Practiced** veteran adjective, or take 1
+    Trauma and mark both.
 - name: Red Comet
   description: |
     You can **push** yourself to do one of the following:
