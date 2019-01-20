@@ -18,17 +18,22 @@
     </div>
   {{ end }}
 
-  {{ if or ( isset .Params "specialmoves" ) ( isset .Params "startingmove" ) }}
+  {{ if ( isset .Params "startingmoves" ) }}
+    <div class="playbook playbook-section playbook-starting-moves">
+      <h3>Starting moves</h3>
+      <div>You start with these special moves</div>
+        {{ range .Params.startingMoves }}
+          {{ partial "special-move.html" (dict "name" .name "description" .description) }}
+        {{ end }}
+    </div><!-- end .playbook-starting-moves -->
+  {{ end }}
+
+  {{ if ( isset .Params "specialmoves" ) }}
     <div class="playbook playbook-section playbook-special-moves">
       <h3>Special moves</h3>
-        {{ if isset .Params "startingmove" }}
-          {{ $startingMoveName := print .Params.startingMove.name " (starting move)" }}
-          {{ partial "special-move.html" (dict "name" $startingMoveName "description" .Params.startingMove.description) }}
+        {{ range .Params.specialMoves }}
+          {{ partial "special-move.html" (dict "name" .name "description" .description) }}
         {{ end }}
-
-      {{ range .Params.specialMoves }}
-        {{ partial "special-move.html" (dict "name" .name "description" .description) }}
-      {{ end  }}
     </div><!-- end .playbook-special-moves -->
   {{ end }}
 {{ end }}
