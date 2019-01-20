@@ -2,12 +2,12 @@
 title: the Ace
 type: playbook
 playbookDescription: |
-  A pilot whose abilities verge on the supernatural or impossible, a pilot who
-  thrills to meet a worthy opponent and possibly has more kinship with them than
-  with command.
+  A pilot whose abilities verge on the supernatural or impossible, and is maybe
+  here to show off more than actually win.
 reasonToPlay: |
-  play the fastest hardest motherf***er on the field, like Char from _Gundam_,
-  Maverick from _Top Gun_, or Asuka Langley Soryu from _Evangelion_.
+  play the fastest hardest motherf***er on the field, and for everyone to know
+  it, like Char from _Gundam_, Maverick from _Top Gun_, or Asuka Langley Soryu
+  from _Evangelion_.
 startingActionDots:
 - action: command
   dots: 1
