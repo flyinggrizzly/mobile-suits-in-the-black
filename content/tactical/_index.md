@@ -155,6 +155,29 @@ you are not submitting orders, submit an index card with the name and "no
 orders" to the MC. These should be given to the MC face down to maintain
 secrecy.
 
+## Bidding on priority Intel
+
+The last thing you can do with you **STRAT** is bid on priority access to intel
+for the next mission. Your bids for intel should be submitted on the same card
+you use to submit your orders. Everyone who bids will see intel before the next
+tactical phase, in order of how much the officer bid (from highest to lowest).
+
+If you bid to see intel, you will see all intel gathered by the **Intelligence
+Officer**. The amount available is determined by them in secret at the end of a
+mission, by rolling the **Resistance's** Tier.
+
+After rolling intel, the **Intelligence Officer** (MC) should determine the
+order to show intel to any officers that bid, and contact each officer one by
+one. This is a good thing to do in between sessions, because officers should not
+know if another officer has seen the intel before them.
+
+### Redacting intel
+
+When you see intel after bidding, if you have **STRAT** left, you can spend 1
+**STRAT** to redact it, so that no one else sees it. Any officers who see it
+after you, whether they bid or during tactical, will not know that it existed.
+You can spend 2 **STRAT** to replace it with **false intelligence**.
+
 ### Bookkeeping and overspending STRAT
 
 Once you have announced your total STRAT to the table at the beginning of
@@ -166,12 +189,9 @@ The other **Tactical Officers** will have an idea of how much **STRAT** you have
 for issuing **Orders**, but because these are submitted blind, they will know
 you've submitted at least 1, but neither how many, nor what kind. Which means
 they won't know exactly how much **STRAT** you spend or how much you have left
-for changing execution conditions during a mission. Which means you can
-**overspend...**
+for changing execution conditions during a mission. The only other person at the
+table who will, is the MC.
 
-If you **overspend** your **STRAT** and another **Tactical Officer** calls you
-on it in the _next_ **Tactical phase**, they can either penalize you that many
-**STRAT** for the next phase, or demand you surrender 1 asset per 3 **STRAT**
-(rounded up) overspent to the Resistance. You must surrender a minimum of 1
-asset. If you do not surrender the asset, your faction takes -1 ongoing to its
-**influence** until the rest of the tactical quorum deems your debt repaid.
+I intend to include optional rules for bluffing and overspending **STRAT**, but
+the core rule is don't. If you realize you have by accident overspent at some
+some point, own up and decide with the group how to resolve and proceed.
