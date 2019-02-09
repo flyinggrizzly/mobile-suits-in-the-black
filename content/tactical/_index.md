@@ -13,6 +13,11 @@ Each **Tactical Officer** is also a member of one of the Resistance's **sponsor
 factions**, and will likely have their own more selfish goals in addition to
 defeating the Enemy.
 
+During Tactical, the MC takes on the role of the **Intelligence Officer** in
+addition to their normal role. As the Intelligence Officer, the MC's job is to
+present all information as honestly and openly as possible. Don't lie or fuck
+around here--life is going to be hard enough for the Tactical Officers as it is.
+
 ## The Tactical phase
 
 The first thing you do when you begin playing _Against the Titans of War_, after
@@ -26,12 +31,46 @@ mission.
 
 In **Tactical phase**, you should follow these steps:
 
+0. The MC, as the **Intelligence Officer** rolls for intel, and presents this to
+   the **Tactical Officers**. If any officers bid to have priority on intel,
+   they should see it first, and may choose to alter it before others see it
 0. Each **Tactical Officer** decides to how much **Influence** to spend on their
-   faction's growth, and how much to spend on Resistance operations
+   faction's growth, and how much to spend on **STRAT** for Resistance operations
 1. Determine each **Tactical Officer's** **STRAT** for the phase
 2. Decide on the Resistance's next objective
 3. Attach **Riders** to the mission objective
-4. Submit **Orders** to the MC
+4. Submit **Orders** and intel bids for the next mission to the MC
+
+### Intel
+
+Beginning in the second Tactical phase, the MC as the Intelligence Officer will
+roll the Resistance's Tier to determine how much intel is available to the
+Tactical Officers. During the first Tactical phase, give 3 intel as if a 6 had
+been rolled:
+
+- 1-3: 1 Enemy activity
+- 4-5: 2 Enemy activities
+- 6: 3 Enemy activities
+- Crit: 5 Enemy activities, or all if there are fewer than 5 this turn, and the
+    Soldier's get a bonus die on their next Engagement roll
+
+This roll should happen *after* the MC has planned out the Enemy's activity, and
+also implies that the Enemy should be making at least 3-4 actions on any given
+turn.
+
+It is possible that one or more Tactical Officers have spent **STRAT** in order
+to look at intel ahead of their colleagues. If this is the case, the
+Intelligence Officer should show the intel to the officers in order of who bid
+the most **STRAT**, highest first. If there is a tie, the faction with the
+highest Tier gets priority. If this is tied, choose at random.
+
+Each Tactical Officer may choose to redact a piece of intel for 1 **STRAT**, or
+replace it with false information for 2 **STRAT** if they have any left from the
+last tactical phase.
+
+If any Tactical Officers choose to redact or tamper with intel, then officers
+seeing it after them, whether in the group or further down the priority intel
+line, will be seeing incomplete or false information.
 
 ### Allocating Influence
 
