@@ -1,6 +1,7 @@
 ---
 title: FRACTs
 weight: 300
+alwaysopen: true
 ---
 
 **FRACTs** are the giant humanoid machines that your Soldiers can pilot in the war.

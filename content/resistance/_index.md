@@ -1,6 +1,7 @@
 ---
 title: The Resistance
 weight: 10
+alwaysopene: true
 ---
 
 War has been ravaging the world and space for decades. Victim becomes aggressor,

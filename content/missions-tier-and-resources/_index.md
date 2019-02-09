@@ -1,7 +1,7 @@
 ---
 title: Missions, Tier, and Resources
 weight: 600
-
+alwaysopen: true
 ---
 
 - tier: 0, 1, 2, or 3

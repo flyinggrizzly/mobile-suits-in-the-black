@@ -1,5 +1,6 @@
 ---
 title: Against the Titans of War
+alwaysopen: true
 ---
 
 _Against the Titans of War_ is a [_Forged in the

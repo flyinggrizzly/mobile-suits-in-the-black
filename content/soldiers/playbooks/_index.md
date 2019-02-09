@@ -1,5 +1,6 @@
 ---
 title: Playbooks
+alwaysopen: true
 ---
 
 These are the **Soldier** playbooks for _Against the Titans of War_ which will

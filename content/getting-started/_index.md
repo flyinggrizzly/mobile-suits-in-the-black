@@ -1,6 +1,7 @@
 ---
 title: Getting started
 weight: 01
+alwaysopen: true
 ---
 
 In order to play _Against the Titans of War_, you should already be familiar

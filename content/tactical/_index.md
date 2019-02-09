@@ -1,6 +1,7 @@
 ---
 title: Tactical
 weight: 400
+alwaysopen: true
 ---
 
 In addition to playing a **Soldier**, you will also be taking on the role of a

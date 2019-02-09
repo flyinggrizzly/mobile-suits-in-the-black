@@ -1,6 +1,7 @@
 ---
 title: Soldiers
 weight: 200
+alwaysopen: true
 ---
 
 When you play _Against the Titans of War_, you will play pilots, mechanics, technicians,

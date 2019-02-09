@@ -1,6 +1,7 @@
 ---
 title: The Factions
 weight: 500
+alwaysopen: true
 ---
 
 On equal footing with the drama and action of your Soldiers are the politics and

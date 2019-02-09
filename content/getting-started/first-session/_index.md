@@ -1,5 +1,6 @@
 ---
 title: First session
+alwaysopen: true
 ---
 
 Recipe for your first session of _Against the Titans of War_:
