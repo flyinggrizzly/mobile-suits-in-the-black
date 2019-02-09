@@ -48,10 +48,10 @@ roll the Resistance's Tier to determine how much intel is available to the
 Tactical Officers. During the first Tactical phase, give 3 intel as if a 6 had
 been rolled:
 
-- 1-3: 1 Enemy activity
-- 4-5: 2 Enemy activities
-- 6: 3 Enemy activities
-- Crit: 5 Enemy activities, or all if there are fewer than 5 this turn, and the
+- **1-3:** 1 Enemy activity
+- **4-5:** 2 Enemy activities
+- **6:** 3 Enemy activities
+- **Crit:** 5 Enemy activities, or all if there are fewer than 5 this turn, and the
     Soldier's get a bonus die on their next Engagement roll
 
 This roll should happen *after* the MC has planned out the Enemy's activity, and
@@ -94,7 +94,7 @@ For each of these, take -1 **Influence**:
 Once you have determined your total **Influence**, you need to decide how to
 spend it: you can use your **Influence** to roll **STRAT**, or you can spend any
 amount of **Influence** to increase your faction's
-[**Momentum**](/factions/#momentum) 1 for 1 in order to eventually build its
+[**Momentum**](/factions/#momentum-and-faction-growth) 1 for 1 in order to eventually build its
 strength. You can also spend **Momentum** to increase the **Influence** you roll
 for **STRAT** this turn.
 
