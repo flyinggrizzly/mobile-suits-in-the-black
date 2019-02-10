@@ -1,8 +1,9 @@
 ---
 title: The Resistance
-weight: 10
-alwaysopene: true
+weight: 30
 ---
+
+# The Resistance
 
 War has been ravaging the world and space for decades. Victim becomes aggressor,
 aggressor becomes victor, victor becomes victim in a never ending cycle.
@@ -14,7 +15,8 @@ seemed to proceed apace.
 
 And then the Federacy created the _Stampede_, their special forces. The Stampede
 are soldiers with special permission to follow any matter they choose, using any
-methods they like, to root out the last of the Federacy's enemies.
+methods they like, to root out the last of the Federacy's enemies. We just call
+them _the Enemy_.
 
 The _Stampede's_ power corrupted them. Or maybe they were corrupt from the
 start. It doesn't matter, either way, it is your job to resist them.
@@ -27,18 +29,18 @@ you may have been the closest allies in the Last War. Some of you were bitter
 enemies. Your work is as much about finding the common ground with each other so
 so you can stand strong together as it is to fight the Stampede.
 
-## Creating your Resistance
+## Creating your Resistance and Enemy
 
 When it comes time to begin your game, you will need to define your Resistance,
-and the Stampede, or Enemy. These two entities are very closely
-intertwined--where one fights for peoples' freedoms, the other crushes a tight
-fist. They won't always be polar opposites, and there may be some uncomfortable
-similarities... but they are _always_ in conversation with each other.
+and your Enemy. These two entities are very closely intertwined--where one
+fights for peoples' freedoms, the other crushes a tight fist. They won't always
+be polar opposites, and there may be some uncomfortable similarities... but they
+are _always_ in conversation with each other.
 
 For now, don't worry about the Resistance sponsor factions--there will probably
 be places where their values differ from the Resistance, and that's good and
 interesting. This first step is about defining what you as players think is the
-evil of the Stampede, the rightness of the Resistance, and the grey in between.
+evil of the Enemy, the rightness of the Resistance, and the grey in between.
 
 ### Who are the Enemy?
 
