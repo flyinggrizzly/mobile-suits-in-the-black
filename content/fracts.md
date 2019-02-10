@@ -102,10 +102,13 @@ For example, if I were making a gambit for the [Zaku
 II](http://gundam.wikia.com/wiki/MS-06_Zaku_II), the most common mobile suit
 from the _Gundam_ series, I might give it this gambit:
 
-> **Ubiquitous**
->
-> Zaku are everywhere, and parts and knowhow are easy to find. **When you repair
-> your Zaku** spend 1 FN instead of 2 for parts, and tick 1 extra repair box.
+<div class='fract-gambit'>
+  <strong>Ubiquitous</strong>
+  <p>
+    Zaku are everywhere, and parts and knowhow are easy to find. <strong>When you repair
+    your Zaku</strong> spend 1 FN instead of 2 for parts, and tick 1 extra repair box.
+  </p>
+</div>
 
 It's not the most glamorous, exciting, or rule-bending Gambit, but on the other
 hand, FRACTs will need to be repaired almost every mission, so this Gambit will
@@ -113,16 +116,20 @@ always be useful.
 
 On the other hand, if I were making a Gambit for the Qubeley from Zeta...
 
-> **Funnels**
->
-> **When an Envoy sorties in this mobile suit**, they can use the psycommu to
-> deploy and control **funnels** or **bits**, which are small remote-controlled
-> beam-cannons capable of moving themselves around in space at your mental
-> command. **You can spend Stress**, one for one, for any of the following effects:
->
->   - attack an enemy from a direction they're not expecting
->   - attack multiple enemies simultaneously
->   - create a field of beam-cannon fire to slow a pursuer or quarry down
+<div class='fract-gambit'>
+  <strong>Funnels</strong>
+  <p>
+    <strong>When an Envoy sorties in this mobile suit</strong>, they can use the psycommu to
+    deploy and control <strong>funnels</strong> or <strong>bits</strong>, which are small remote-controlled
+    beam-cannons capable of moving themselves around in space at your mental
+    command. <strong>You can spend Stress</strong>, one for one, for any of the following effects:
+  </p>
+  <ul>
+    <li>attack an enemy from a direction they're not expecting</li>
+    <li>attack multiple enemies simultaneously</li>
+    <li>create a field of beam-cannon fire to slow a pursuer or quarry down</li>
+  </ul>
+</div>
 
 This is a much more 'powerful' Gambit, and so has a higher cost (Stress)
 associated with it. It's also more restricted in its use--only Soldiers using

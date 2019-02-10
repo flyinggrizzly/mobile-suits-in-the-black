@@ -10,3 +10,10 @@
   padding-bottom: 2px !important;
   display: inline-block !important;
 }
+
+.fract-gambit {
+  margin: 2em;
+  margin-right: 55%;
+  padding: 1em 1em .5em;
+  border-left: 3px solid red;
+}
