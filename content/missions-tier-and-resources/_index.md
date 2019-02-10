@@ -25,10 +25,6 @@ alwaysopen: true
   - stake resources for increase in Tier, at 2 resource points per 1 Tier
   - call on friends and other advantages to augment the engagement roll as usual
 
-{{% notice info %}}
-The requirement of 6 total asset value per tier may change during testing!
-{{% /notice %}}
-
 ## Friction
 
 During a mission you accrue Friction when you roll 1-3 on a Desperate action,
