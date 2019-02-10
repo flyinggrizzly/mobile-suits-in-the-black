@@ -3,11 +3,10 @@
 }
 
 .attribute-adjective {
-  transform: rotate(180deg);
   width: 0.8em;
   margin: 0 !important;
   padding: 0;
-  padding-bottom: 2px !important;
+  padding-top: 2px !important;
   display: inline-block !important;
 }
 
@@ -16,4 +15,12 @@
   margin-right: 55%;
   padding: 1em 1em .5em;
   border-left: 3px solid red;
+}
+
+h1::before {
+  content: '';
+  background: url('/games/against-the-titans-of-war/images/dice-d10-solid.svg') no-repeat;
+  height: .8em;
+  width: 1em;
+  display: inline-block;
 }
