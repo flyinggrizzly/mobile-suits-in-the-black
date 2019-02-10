@@ -1,12 +1,13 @@
 ---
 title: Getting started
-weight: 01
-alwaysopen: true
+weight: 20
 ---
+
+# Getting started
 
 In order to play _Against the Titans of War_, you should already be familiar
 with the _Blades in the Dark's_ system, the rules for which are available for
-free on the [_Blades_ SRD](https://bladesinthedark.com/basics)[^1].
+free on the [_Blades_ SRD](https://bladesinthedark.com/basics).
 
 Specifically, you should know how the following work:
 
@@ -43,5 +44,17 @@ everyone should have an idea of what these are and what they do.
 **And when you're ready, follow the [first session
 guide!](/getting-started/first-session/)**
 
+## First session
 
-[^1]: At some point in the future I will add all of the rules directly here, but for now, please use the SRD.
+Recipe for your first session of _Against the Titans of War_:
+
+1. read the Blades rules
+1. read the Titans rules
+1. create the Enemy
+1. create your Resistance
+2. create your sponsor factions
+3. create some unaffiliated factions (potential sponsors and enemies)
+4. create your Soldiers
+4. create your Tactical officers
+4. do your first Tactical phase
+4. run your first mission
