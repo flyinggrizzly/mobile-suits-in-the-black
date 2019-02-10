@@ -5,6 +5,21 @@ weight: 160
 
 # Faction Archetypes
 
+A faction's archetype is the biggest determining factor in who they are and how
+they operate. It is their playbook.
+
+The [**Objectors**](/factions/archetypes/objectors/) are people from the same
+organization as the Enemy, who will not stand for what is happening.
+
+The [**Resurgent Defeated**](/factions/archetypes/resurgent-defeated/) are the
+losers of the **Last War**, hunted by the Enemy. Their hate burns hotter than
+anyone else's.
+
+The [**Corporate Atlas**](/factions/archetypes/corporate-atlas/) is a private
+company who supports the **Resistance** both financially and with materiel,
+either out of good intention or because the Enemy has blacklisted them from
+their market.
+
 ## The Objectors
 
 The **Objectors** are people from the same organization as the Enemy, who will

@@ -11,7 +11,7 @@ In addition to playing a **Soldier**, you will also be taking on the role of a
 **Tactical Officers** do not engage the Enemy directly--they are responsible for
 planning the Resistance's strategy to take down the Enemy.
 
-Each **Tactical Officer** is also a member of one of the Resistance's **sponsor
+Each **Tactical Officer** is a member of one of the Resistance's **sponsor
 factions**, and will likely have their own more selfish goals in addition to
 defeating the Enemy.
 

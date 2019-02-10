@@ -3,6 +3,8 @@ title: Against the Titans of War
 weight: 10
 ---
 
+# The Game
+
 _Against the Titans of War_ is a [_Forged in the
 Dark_](https://bladesinthedark.com/licensing) game that puts you in the middle
 of a seemingly endlessly escalating series of wars and conflicts waged with

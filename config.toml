@@ -32,9 +32,6 @@ enableMissingTranslationPlaceholders = false
   enableGitInfo = true
   search = true
 
-[outputs]
-  home = [ "HTML", "RSS", "JSON"]
-
 [[menu.shortcuts]]
   name = "<i class='fab fa-github'></i> Github repo"
   url = "https://github.com/flyinggrizzly/mobile-suits-in-the-black"

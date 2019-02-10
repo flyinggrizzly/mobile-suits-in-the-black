@@ -22,7 +22,7 @@ Each player will create a faction and take on the role of its Tactical officer
 to advocate for their interests and goals while planning missions and tactics
 for the Resistance.
 
-## Creating factions
+## Creating a faction
 
 To create a faction, follow these steps:
 
@@ -33,28 +33,11 @@ To create a faction, follow these steps:
 5. Choose their closest ally
 6. Choose their bitterest enemy
 
-### Choosing a resource to start
+### A note about starting resources...
 
-To begin with, choose one resource from your faction's list that you make
-available to the **Resistance**. The Resistance will start with a basic,
-outdated ship and **FRACT**s, but a faction can provide better ones.
-
-## Archetypes
-
-A faction's archetype is the biggest determining factor in who they are and how
-they operate. It is their playbook.
-
-The [**Objectors**](/factions/archetypes/objectors/) are people from the same
-organization as the Enemy, who will not stand for what is happening.
-
-The [**Resurgent Defeated**](/factions/archetypes/resurgent-defeated/) are the
-losers of the **Last War**, hunted by the Enemy. Their hate burns hotter than
-anyone else's.
-
-The [**Corporate Atlas**](/factions/archetypes/corporate-atlas/) is a private
-company who supports the **Resistance** both financially and with materiel,
-either out of good intention or because the Enemy has blacklisted them from
-their market.
+Even if none of your sponsor factions choose FRACTs or a ship as the resource
+they make available to the Resistance, the Resistance will start with basic,
+outdated ship and FRACTs, a sponsor just provides _better_ ones.
 
 ## MOMENTUM and faction growth
 
