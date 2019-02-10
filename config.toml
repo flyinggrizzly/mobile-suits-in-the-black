@@ -30,6 +30,7 @@ enableMissingTranslationPlaceholders = false
   disableAssetsBusting = false
   disableInlineCopyToClipBoard = false
   enableGitInfo = true
+  search = true
 
 [outputs]
   home = [ "HTML", "RSS", "JSON"]
