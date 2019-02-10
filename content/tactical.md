@@ -20,7 +20,7 @@ addition to their normal role. As the Intelligence Officer, the MC's job is to
 present all information as honestly and openly as possible. Don't lie or fuck
 around here--life is going to be hard enough for the Tactical Officers as it is.
 
-## Tactical phase
+## Tactical phase overview
 
 The first thing you do when you begin playing _Against the Titans of War_, after
 you've created your characters, the Resistance, the Enemy, and your factions, is
@@ -50,11 +50,12 @@ roll the Resistance's Tier to determine how much intel is available to the
 Tactical Officers. During the first Tactical phase, give 3 intel as if a 6 had
 been rolled:
 
-- **1-3:** 1 Enemy activity
-- **4-5:** 2 Enemy activities
-- **6:** 3 Enemy activities
-- **Crit:** 5 Enemy activities, or all if there are fewer than 5 this turn, and the
-    Soldier's get a bonus die on their next Engagement roll
+| Roll | Intel to distribute |
+|---   | ---                 |
+| 1-3  | 1 Enemy activity    |
+| 4/5  | 2 Enemy activities   |
+| 6    | 3 Enemy activities    |
+| Crit | 3 Enemy activities, or if there are fewer than 5 this turn, disclose them all and give the Soldiers a bonus die on their next Engagement roll |
 
 This roll should happen *after* the MC has planned out the Enemy's activity, and
 also implies that the Enemy should be making at least 3-4 actions on any given
@@ -73,6 +74,10 @@ last tactical phase.
 If any Tactical Officers choose to redact or tamper with intel, then officers
 seeing it after them, whether in the group or further down the priority intel
 line, will be seeing incomplete or false information.
+
+It can be a good idea to distribute intel in between play sessions to make sure
+that no one knows who else might have seen intel or in what order. It's harder
+to keep things secret when everyone is in a room or webcall together.
 
 ## Allocating Influence
 
