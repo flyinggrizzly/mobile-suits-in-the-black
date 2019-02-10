@@ -24,3 +24,8 @@ h1::before {
   width: 1em;
   display: inline-block;
 }
+
+.books-menu-footer img {
+  width: 1.5em !important;
+  margin-bottom: -2px;
+}

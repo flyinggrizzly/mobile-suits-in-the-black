@@ -19,20 +19,9 @@ enableMissingTranslationPlaceholders = false
 [params]
   description = "A game about drawing former enemies and allies together to resist a corrupt oppressor"
   author = "Sean DMR <sean@flyinggrizzly.net>"
-  themeVariant = "msitb" # choose theme variant "green", "gold" , "gray", "blue" (default)
-  showVisitedLinks = true
-  disableSearch = false
-  disableShortcutsTitle = true
-  disableBreadcrumb = true
-  disableNextPrev = true
-  ordersectionsby = "weight" # ordersectionsby = "title"
-  editURL = "https://github.com/flyinggrizzly/mobile-suits-in-the-black/edit/release/content/"
-  disableAssetsBusting = false
-  disableInlineCopyToClipBoard = false
-  enableGitInfo = true
   search = true
 
-[[menu.shortcuts]]
-  name = "<i class='fab fa-github'></i> Github repo"
-  url = "https://github.com/flyinggrizzly/mobile-suits-in-the-black"
-  weight = 10
+[languages.en]
+  toc_footers = [
+    '<a class="books-menu-footer" href="https://www.flyinggrizzly.net/"><img src="/images/white-flying-grizzly.png" />Run home Jack</a>'
+  ]
