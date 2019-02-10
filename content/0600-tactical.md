@@ -1,8 +1,9 @@
 ---
 title: Tactical
-weight: 400
-alwaysopen: true
+weight: 600
 ---
+
+# The Tactical game
 
 In addition to playing a **Soldier**, you will also be taking on the role of a
 **Tactical Officer**.
@@ -10,7 +11,7 @@ In addition to playing a **Soldier**, you will also be taking on the role of a
 **Tactical Officers** do not engage the Enemy directly--they are responsible for
 planning the Resistance's strategy to take down the Enemy.
 
-Each **Tactical Officer** is also a member of one of the Resistance's **sponsor
+Each **Tactical Officer** is a member of one of the Resistance's **sponsor
 factions**, and will likely have their own more selfish goals in addition to
 defeating the Enemy.
 
@@ -19,7 +20,7 @@ addition to their normal role. As the Intelligence Officer, the MC's job is to
 present all information as honestly and openly as possible. Don't lie or fuck
 around here--life is going to be hard enough for the Tactical Officers as it is.
 
-## The Tactical phase
+## Tactical phase overview
 
 The first thing you do when you begin playing _Against the Titans of War_, after
 you've created your characters, the Resistance, the Enemy, and your factions, is
@@ -42,18 +43,19 @@ In **Tactical phase**, you should follow these steps:
 3. Attach **Riders** to the mission objective
 4. Submit **Orders** and intel bids for the next mission to the MC
 
-### Intel
+## Distribute Intel
 
 Beginning in the second Tactical phase, the MC as the Intelligence Officer will
 roll the Resistance's Tier to determine how much intel is available to the
 Tactical Officers. During the first Tactical phase, give 3 intel as if a 6 had
 been rolled:
 
-- **1-3:** 1 Enemy activity
-- **4-5:** 2 Enemy activities
-- **6:** 3 Enemy activities
-- **Crit:** 5 Enemy activities, or all if there are fewer than 5 this turn, and the
-    Soldier's get a bonus die on their next Engagement roll
+| Roll | Intel to distribute |
+|---   | ---                 |
+| 1-3  | 1 Enemy activity    |
+| 4/5  | 2 Enemy activities   |
+| 6    | 3 Enemy activities    |
+| Crit | 3 Enemy activities, or if there are fewer than 5 this turn, disclose them all and give the Soldiers a bonus die on their next Engagement roll |
 
 This roll should happen *after* the MC has planned out the Enemy's activity, and
 also implies that the Enemy should be making at least 3-4 actions on any given
@@ -73,7 +75,11 @@ If any Tactical Officers choose to redact or tamper with intel, then officers
 seeing it after them, whether in the group or further down the priority intel
 line, will be seeing incomplete or false information.
 
-### Allocating Influence
+It can be a good idea to distribute intel in between play sessions to make sure
+that no one knows who else might have seen intel or in what order. It's harder
+to keep things secret when everyone is in a room or webcall together.
+
+## Allocating Influence
 
 Your faction's **Influence** for the **Tactical phase** is determined by how
 involved and supportive you were on the last mission. Take 1 **Influence** for
@@ -99,7 +105,7 @@ amount of **Influence** to increase your faction's
 strength. You can also spend **Momentum** to increase the **Influence** you roll
 for **STRAT** this turn.
 
-### Determining STRAT
+## Determining STRAT
 
 **STRAT** is the currency **Tactical Officers** use to influence the
 Resistance's objective and mission parameters. You spend it to attach **Riders**
@@ -124,7 +130,7 @@ Once you have determined your **STRAT**, tell everyone at the table how much
 your **Tactical Officer** has. After this, you don't have to tell anyone how
 much **STRAT** you have or are spending. It's time to count the cards.
 
-### Deciding on an objective
+## Deciding on a mission objective
 
 Discuss an objective for the Resistance to pursue, or a mission to undertake
 with the other **Tactical Officers**. This should be some kind of consensus, and
@@ -139,7 +145,7 @@ If at any point you think your Soldier would find the behavior, politicking,
 selfishness, or goals decided by the **Tactical Officers** contemptible, you
 make take [**Contempt**](/tactical/contempt/).
 
-### Riders
+## Riders
 
 **Riders** are supplemental mission objectives, or conditions placed on the
 squad for achieving or pursuing the main objective. These are **optional** for
@@ -158,7 +164,7 @@ privilege your own faction's benefit over the general benefit of the Resistance
 or other sponsor factions. Keep in mind that **Riders** are open knowledge, and
 Soldiers may take **Contempt** if they disagree.
 
-### Orders
+## Orders
 
 **Orders** are instructions to the MC to carry out certain actions during the
 mission, either at a certain point, or when specific trigger criteria are met.

@@ -7,7 +7,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Against the Titans of War"
-theme = "learn"
+theme = "docuapi"
 themesdir = "./themes"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
@@ -30,9 +30,7 @@ enableMissingTranslationPlaceholders = false
   disableAssetsBusting = false
   disableInlineCopyToClipBoard = false
   enableGitInfo = true
-
-[outputs]
-  home = [ "HTML", "RSS", "JSON"]
+  search = true
 
 [[menu.shortcuts]]
   name = "<i class='fab fa-github'></i> Github repo"

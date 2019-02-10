@@ -1,7 +1,9 @@
 ---
 title: Credits and License
-weight: "1000"
+weight: 1000
 ---
+
+# Credits and License
 
 *Blades in the Dark™ is a trademark of One Seven Design. The Forged in the Dark
 Logo is used with permission.*

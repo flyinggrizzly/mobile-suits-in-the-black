@@ -1,22 +1,24 @@
 ---
 title: Contempt
-weight: 900
+weight: 640
 ---
+
+# Contempt
 
 Soldiers can take **Contempt** whenever they think someone in command, usually
 the **Tactical Officers** (but it can be another Soldier or NPC from a sponsor
 faction) is making selfish and bad decisions. Especially when it starts to
 endanger the cause or the Soldiers needlessly.
 
-A Soldier either has **Contempt**. You can't have 'two contempt'. When you take
-**Contempt**, keep track of which faction angered you enough to do this--when
-you spend it this will be important.
+A Soldier either has **Contempt**, or they don't. You can't have 'two contempt'.
+When you take **Contempt**, keep track of which faction angered you enough to do
+this--when you spend it this will be important.
 
 Spending **Contempt** ratchets up the tension in the Resistance, and you will
 mark the [**Tension track**](/tactical/tension-crisis/). When the **Tension
 track** is full, you are in [**Crisis**](/tactical/tension-crisis#crises).
 
-## Using Contempt
+## Spending Contempt
 
 You can use your **Contempt** when you are in the field. It is a strong and ugly
 emotion that can burn inside your Soldier and carry them through, so they can
@@ -33,18 +35,18 @@ When you spend **Contempt**, the faction whose actions caused you to take it
 marks a 1 **STRAT** penalty for the next **Tactical phase**, and the Resistance
 marks the **Tension track** once.
 
-#### Paying Stress
+### Paying Stress
 
 At any point, if you are about to mark Stress, you can spend a **Contempt** to
 avoid paying the Stress cost.
 
-#### Increasing level of effect
+### Increasing level of effect
 
 You can spend a **Contempt** to bump the outcome of your successful action by one
 level: from **Limited** to **Standard**, or from **Standard** to **Great**. You
 can do this before or after the action has been taken.
 
-#### Changing the outcome of an action roll
+### Changing the outcome of an action roll
 
 Once the dice for an action have been rolled, you can spend **Contempt** to
 adjust the result up _or_ down. This means you can turn a 1-3 into a 4/5, a 4/5
@@ -68,7 +70,7 @@ exciting in and of itself, not a tool for ruining someone's fun.
 If the other player is not comfortable with you using your **Contempt** this
 way, don't. Find another use for it. There are other really good uses for it.
 
-#### Mark 2 XP
+### Mark 2 XP
 
 Sometimes it takes getting burned to learn and grow. You can spend your
 **Contempt** to just take whatever betrayal gave it to you on the chin and learn

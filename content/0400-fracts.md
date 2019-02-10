@@ -1,8 +1,9 @@
 ---
 title: FRACTs
-weight: 300
-alwaysopen: true
+weight: 400
 ---
+
+# FRACTs
 
 **FRACTs** are the giant humanoid machines that your Soldiers can pilot in the war.
 You don't have to pilot these--in fact, it is entirely possible to play _Against
@@ -21,7 +22,7 @@ When you begin the game, you will probably be piloting mass-produced FRACTs, or
 possibly one or two performance units if you have an Ace in your squad.
 
 The differences between the different categories are the number of **Edges**,
-**Flaws**, and **Gambits**[^1] they have, and how much it costs to keep them
+**Flaws**, and **Gambits** they have, and how much it costs to keep them
 running:
 
 | Class           | Edges | Flaws | Gambits | Repair cost |
@@ -90,21 +91,32 @@ already get us part of the way there, but it's your FRACT's Gambits that really
 drive this.
 
 When creating a Gambit, think about what you would like your FRACT to be
-exception at. Things like "when it is surrounded, it can move fast enough to
+exceptional at, the things that _really_ set it apart. Things like "when it is surrounded, it can move fast enough to
 attack all the enemies at once for a split second", or "when it transforms, it
 is the fastest and most maneuverable machine on the field" are good places to
 start.
 
-Once you have the core idea, it's time to turn it into a Gambit. The more
-generally applicable the trigger is, the less spectacular the Gambit should be.
-For example, if I were making a gambit for the [Zaku
-II](http://gundam.wikia.com/wiki/MS-06_Zaku_II), the most common mobile suit
-from the _Gundam_ series, I might give it this gambit:
+Once you know what trait of the FRACT you'd like to focus, think about how you
+can break specific rules of the game to make that a reality both in the
+narrative, and in the crunch: for example, a Zaku's reliability might make it
+easier and cheaper to repair, so consider reducing repair cost and giving a
+bonus die or even an extra tick on the repair clock. For the Guncannon, it might
+be that you can **push** to lay down a heavy barrage, and damage either several
+enemies or one or two very powerful enemies with improved effect.
 
-> **Ubiquitous**
+The more generally applicable the trigger is, the less spectacular the Gambit
+should be. For example, if I were making a gambit for the [Zaku
+II](http://gundam.wikia.com/wiki/MS-06_Zaku_II) (the most common mobile suit
+from the _Gundam_ series) about its reliability and ease of repair, I might give
+it this gambit:
 
-> Zaku are everywhere, and parts and knowhow are easy to find. **When you repair
-> your Zaku** spend 1 FN instead of 2 for parts, and tick 1 extra repair box.
+<div class='fract-gambit'>
+  <strong>Ubiquitous</strong>
+  <p>
+    Zaku are everywhere, and parts and knowhow are easy to find. <strong>When you repair
+    your Zaku</strong> spend 1 FN instead of 2 for parts, and tick 1 extra repair box.
+  </p>
+</div>
 
 It's not the most glamorous, exciting, or rule-bending Gambit, but on the other
 hand, FRACTs will need to be repaired almost every mission, so this Gambit will
@@ -112,26 +124,38 @@ always be useful.
 
 On the other hand, if I were making a Gambit for the Qubeley from Zeta...
 
-> **Funnels**
-
-> **When an Envoy sorties in this mobile suit**, they can use the psycommu to
-> deploy and control **funnels** or **bits**, which are small remote-controlled
-> beam-cannons capable of moving themselves around in space at your mental
-> command. **You can spend Stress**, one for one, for any of the following effects:
->
-> - attack an enemy from a direction they're not expecting
-> - attack multiple enemies simultaneously
-> - create a field of beam-cannon fire to slow a pursuer or quarry down
+<div class='fract-gambit'>
+  <strong>Funnels</strong>
+  <p>
+    <strong>When an Envoy sorties in this mobile suit</strong>, they can use the psycommu to
+    deploy and control <strong>funnels</strong> or <strong>bits</strong>, which are small remote-controlled
+    beam-cannons capable of moving themselves around in space at your mental
+    command. <strong>You can spend Stress</strong>, one for one, for any of the following effects:
+  </p>
+  <ul>
+    <li>attack an enemy from a direction they're not expecting</li>
+    <li>attack multiple enemies simultaneously</li>
+    <li>create a field of beam-cannon fire to slow a pursuer or quarry down</li>
+  </ul>
+</div>
 
 This is a much more 'powerful' Gambit, and so has a higher cost (Stress)
 associated with it. It's also more restricted in its use--only Soldiers using
 the Envoy playbook can really make use of it.
 
-If you are looking for more inspiration, there is a list of [example
-Gambits](/fracts/example-gambits/).
+When creating a gambit, common formula include:
+
+- **push** for some extra effect in addition to the extra die or improved
+    position in a tense position
+- an extra die and/or effect (or clock tick for long-term projects) in less
+    tense situations
+- something more powerful, like extra armor or load in exchange for taking an
+    extra **Flaw**
+- something special you can do by expending your **special armor**
+
+If you need inspiration, the core _Blades_ playbook special abilities are great,
+and there are example gambits included in the game.
 
 ## Maintaining a FRACT
 
 
-
-[^1]: For those of you who have played _Scum and Villainy_, FRACT gambits are not the same as gambits in that game.
