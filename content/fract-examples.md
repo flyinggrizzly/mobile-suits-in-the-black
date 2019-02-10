@@ -1,11 +1,17 @@
 ---
-title: Example Gambits
-weight: 30
+title: FRACT examples
+weight: 110
 ---
+
+## Example Edges
+
+## Example Flaws
+
+## Example Gambits
 
 These are example **Gambits** for your **FRACTs**. You can use them for
 inspiration when creating your own, or just use these. They are mostly inspired
-by mobile suits from different _Gundam_ series[^1].
+by mobile suits from different _Gundam_ series.
 
 The process I've followed for creating these is to identify some _thing_ that
 the FRACT can do, that sets it apart from other FRACTs. In Gundam terms, things
@@ -33,7 +39,7 @@ Common Gambit formula include:
 
 If you need inspiration, the core _Blades_ playbook special abilities are great.
 
-## Examples
+### Examples
 
 The **Chobham Armor** and **Heavy Weapons System** are gambits for FRACTs that
 have detachable equipment for extra protection, or protection and firepower that
@@ -65,5 +71,3 @@ have to send your FRACT back to base, you can shed the Heavy Weapons System:
 - ignore the "Heavy" flaw until the armor is reapplied
 
 
-
-[^1]: Because I wear my heart on my sleeve and am a giant nerd.

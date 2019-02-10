@@ -1,8 +1,9 @@
 ---
 title: FRACTs
-weight: 300
-alwaysopen: true
+weight: 100
 ---
+
+# FRACTs
 
 **FRACTs** are the giant humanoid machines that your Soldiers can pilot in the war.
 You don't have to pilot these--in fact, it is entirely possible to play _Against
@@ -21,7 +22,7 @@ When you begin the game, you will probably be piloting mass-produced FRACTs, or
 possibly one or two performance units if you have an Ace in your squad.
 
 The differences between the different categories are the number of **Edges**,
-**Flaws**, and **Gambits**[^1] they have, and how much it costs to keep them
+**Flaws**, and **Gambits** they have, and how much it costs to keep them
 running:
 
 | Class           | Edges | Flaws | Gambits | Repair cost |
@@ -102,7 +103,7 @@ II](http://gundam.wikia.com/wiki/MS-06_Zaku_II), the most common mobile suit
 from the _Gundam_ series, I might give it this gambit:
 
 > **Ubiquitous**
-
+>
 > Zaku are everywhere, and parts and knowhow are easy to find. **When you repair
 > your Zaku** spend 1 FN instead of 2 for parts, and tick 1 extra repair box.
 
@@ -113,15 +114,15 @@ always be useful.
 On the other hand, if I were making a Gambit for the Qubeley from Zeta...
 
 > **Funnels**
-
+>
 > **When an Envoy sorties in this mobile suit**, they can use the psycommu to
 > deploy and control **funnels** or **bits**, which are small remote-controlled
 > beam-cannons capable of moving themselves around in space at your mental
 > command. **You can spend Stress**, one for one, for any of the following effects:
 >
-> - attack an enemy from a direction they're not expecting
-> - attack multiple enemies simultaneously
-> - create a field of beam-cannon fire to slow a pursuer or quarry down
+>   - attack an enemy from a direction they're not expecting
+>   - attack multiple enemies simultaneously
+>   - create a field of beam-cannon fire to slow a pursuer or quarry down
 
 This is a much more 'powerful' Gambit, and so has a higher cost (Stress)
 associated with it. It's also more restricted in its use--only Soldiers using
@@ -133,5 +134,3 @@ Gambits](/fracts/example-gambits/).
 ## Maintaining a FRACT
 
 
-
-[^1]: For those of you who have played _Scum and Villainy_, FRACT gambits are not the same as gambits in that game.
