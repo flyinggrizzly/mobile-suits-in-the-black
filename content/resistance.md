@@ -15,8 +15,8 @@ seemed to proceed apace.
 
 And then the Federacy created the _Stampede_, their special forces. The Stampede
 are soldiers with special permission to follow any matter they choose, using any
-methods they like, to root out the last of the Federacy's enemies. We just call
-them _the Enemy_.
+methods they like, to root out the last of the Federacy's enemies. We call
+_them_ the Enemy.
 
 The _Stampede's_ power corrupted them. Or maybe they were corrupt from the
 start. It doesn't matter, either way, it is your job to resist them.
@@ -24,10 +24,10 @@ start. It doesn't matter, either way, it is your job to resist them.
 ## We are the Resistance
 
 In _Against the Titans of War_, you take on multiple roles in the Resistance.
-The Resistance is a coalition of anyone who stands against the Stampede. Some of
+The Resistance is a coalition of anyone who stands against the Enemy. Some of
 you may have been the closest allies in the Last War. Some of you were bitter
 enemies. Your work is as much about finding the common ground with each other so
-so you can stand strong together as it is to fight the Stampede.
+so you can stand strong together as it is to fight the Enemy.
 
 ## Creating your Resistance and Enemy
 
