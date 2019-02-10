@@ -1,7 +1,9 @@
 ---
 title: Tension and Crisis
-weight: 1000
+weight: 220
 ---
+
+# Tension and Crisis
 
 Every time a Soldier spends [**Contempt**](/tactical/contempt/), the Resistance
 marks the **Tension track**. When the 10th mark is made, you are in **Crisis**.
@@ -14,7 +16,7 @@ infighting. Do all of the following:
 - roll for a **Crisis**
 - mark a **Crisis** on the **Crisis track**
 
-#### Crises
+## Crises
 
 Roll 1d for each **Crisis** already marked (not including this one):
 
