@@ -36,7 +36,7 @@ task :html_proof do
   Rake::Task['build'].invoke
   options = { assume_extension: true,
               http_status_ignore: [999],
-              internal_domains: ['flyinggrizzly.io',
-                                 'www.flyinggrizzly.io'] }
-  HTMLProofer.check_directory('./_site', options).run
+              internal_domains: ['flyinggrizzly.net',
+                                 'www.flyinggrizzly.net'] }
+  HTMLProofer.check_directory('./public', options).run
 end
