@@ -21,35 +21,35 @@ how to resist them with your attributes.
 There are some changes though. The **actions** in _Against the Titans of War_
 are...
 
-<div class="three-col-container">
-  <div class-"three-col">
-    <table>
-      <tr><th>Insight</th></tr>
-      <tr><td>Hunt</td></tr>
-      <tr><td>Study</td></tr>
-      <tr><td>Rig</td></tr>
-      <tr><td>{{< attr-adj-icon >}} Canny</td></tr>
-    </table>
-  </div>
-  <div class-"three-col">
-    <table>
-      <tr><th>Prowess</th></tr>
-      <tr><td>Finesse</td></tr>
-      <tr><td>Skirmish</td></tr>
-      <tr><td>Maneuver</td></tr>
-      <tr><td>{{< attr-adj-icon >}} Practiced</td></tr>
-    </table>
-  </div>
-  <div class-"three-col">
-    <table>
-      <tr><th>Resolve</th></tr>
-      <tr><td>Command</td></tr>
-      <tr><td>Consort</td></tr>
-      <tr><td>Attune</td></tr>
-      <tr><td>{{< attr-adj-icon >}} Tempered</td></tr>
-    </table>
-  </div>
-</div>
+<table>
+  <thead>
+    <tr>
+      <th>Insight</th>
+      <th>Prowess</th>
+      <th>Resolve</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Hunt</td>
+      <td>Finesse</td>
+      <td>Consort</td>
+    </tr>
+      <td>Study</td>
+      <td>Skirmish</td>
+      <td>Command</td>
+    <tr>
+      <td>Rig</td>
+      <td>Maneuver</td>
+      <td>Attune</td>
+    </tr>
+    <tr>
+      <td>{{< attr-adj-icon >}} Canny</td>
+      <td>{{< attr-adj-icon >}} Practiced</td>
+      <td>{{< attr-adj-icon >}} Tempered</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Veteran Adjectives
 
