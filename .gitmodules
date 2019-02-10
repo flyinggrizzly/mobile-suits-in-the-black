@@ -3,4 +3,4 @@
 	url = https://github.com/matcornic/hugo-theme-learn/
 [submodule "themes/docuapi"]
 	path = themes/docuapi
-	url = git@github.com:bep/docuapi
+	url = https://github.com/bep/docuapi
