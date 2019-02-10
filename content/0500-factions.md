@@ -1,6 +1,6 @@
 ---
 title: The Factions
-weight: 150
+weight: 500
 ---
 
 # The Sponsor Factions

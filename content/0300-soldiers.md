@@ -1,6 +1,6 @@
 ---
 title: Soldiers
-weight: 40
+weight: 300
 ---
 
 # Soldiers

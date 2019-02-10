@@ -1,6 +1,6 @@
 ---
 title: The Resistance
-weight: 30
+weight: 200
 ---
 
 # The Resistance

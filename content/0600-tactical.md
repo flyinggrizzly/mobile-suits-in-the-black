@@ -1,6 +1,6 @@
 ---
 title: Tactical
-weight: 200
+weight: 600
 ---
 
 # The Tactical game

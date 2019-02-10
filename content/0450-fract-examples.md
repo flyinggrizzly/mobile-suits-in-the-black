@@ -1,6 +1,6 @@
 ---
 title: FRACT examples
-weight: 110
+weight: 450
 ---
 
 ## Example Edges

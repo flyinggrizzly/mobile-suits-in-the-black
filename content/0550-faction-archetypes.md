@@ -1,6 +1,6 @@
 ---
 title: Faction Archetypes
-weight: 160
+weight: 550
 ---
 
 # Faction Archetypes
