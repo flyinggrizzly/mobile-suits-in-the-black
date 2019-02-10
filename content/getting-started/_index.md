@@ -31,7 +31,7 @@ Once you're familiar with _Blades_, it's time to dive into the _Titans_ rules.
 Players and MCs should all familiarize themselves with
 
 - [the Resistance](/resistance/)
-- who the [Soldiers](/soldiers/) and [Tactical officers](/factions/tactical-officers/) are
+- who the [Soldiers](/soldiers/) and [Tactical officers](/tactical/tactical-officers/) are
 - what [Tactical does](/tactical/) does
 - how [missions and engagement](/missions-tier-resources/) are different in
     _Titans_

@@ -18,7 +18,7 @@ thing to do, others are here because they see it as a vehicle to ride to further
 their own influence and power, a tool they can bend to their own ends.
 
 Each player will create a faction and take on the role of its
-**[Tactical officer](/factions/tactical-officers/)**.
+**[Tactical officer](/tactical/tactical-officers/)**.
 
 ## Creating factions
 
