@@ -1,8 +1,9 @@
 ---
 title: The Factions
-weight: 500
-alwaysopen: true
+weight: 150
 ---
+
+# The Sponsor Factions
 
 On equal footing with the drama and action of your Soldiers are the politics and
 intrigue of the the sponsor Factions in _Against the Titans of War_.
@@ -17,8 +18,9 @@ inherently good. While some support the **Resistance** because it is the right
 thing to do, others are here because they see it as a vehicle to ride to further
 their own influence and power, a tool they can bend to their own ends.
 
-Each player will create a faction and take on the role of its
-**[Tactical officer](/tactical/tactical-officers/)**.
+Each player will create a faction and take on the role of its Tactical officer
+to advocate for their interests and goals while planning missions and tactics
+for the Resistance.
 
 ## Creating factions
 
@@ -31,7 +33,13 @@ To create a faction, follow these steps:
 5. Choose their closest ally
 6. Choose their bitterest enemy
 
-### Archetypes
+### Choosing a resource to start
+
+To begin with, choose one resource from your faction's list that you make
+available to the **Resistance**. The Resistance will start with a basic,
+outdated ship and **FRACT**s, but a faction can provide better ones.
+
+## Archetypes
 
 A faction's archetype is the biggest determining factor in who they are and how
 they operate. It is their playbook.
@@ -48,12 +56,6 @@ company who supports the **Resistance** both financially and with materiel,
 either out of good intention or because the Enemy has blacklisted them from
 their market.
 
-#### Choosing a resource to start
-
-To begin with, choose one resource from your faction's list that you make
-available to the **Resistance**. The Resistance will start with a basic,
-outdated ship and **FRACT**s, but a faction can provide better ones.
-
 ## MOMENTUM and faction growth
 
 All factions start at **TIER 0**.
@@ -66,3 +68,14 @@ secure the resource before it is available.
 Conversely, if your faction's MOMENTUM is ever lowered to 0, their TIER
 decreases, and they must lose a special ability or resource they sponsor for the
 Resistance.
+
+## Tactical Officers
+
+When you step into the Tactical phase of the game, you will be playing a
+Tactical Officer who represents one of the Resistance's sponsor factions. This
+Officer is one of the faction's most trusted agents, and their goals align with
+the faction's.
+
+If at any point your Tactical Officer begins to object to their faction's
+actions, consider moving them into the Soldier side of the game. The game's
+structure depends on a tension between Tactical and Soldiers.
